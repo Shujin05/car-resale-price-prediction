@@ -1,0 +1,2132 @@
+Model,Brand,Year,Price,Mileage,Transmission
+Toyota Alphard,Toyota,2014,"79,800",90 - 95K KM,Automatic
+Mercedes-Benz CLA250,Mercedes-Benz,2016,"108,900",155 - 160K KM,Automatic
+Volvo V50,Volvo,2006,"32,364",270 - 275K KM,Automatic
+Ford Ranger,Ford,2021,"82,800",95 - 100K KM,Automatic
+Ford Ranger,Ford,2019,"85,800",100 - 105K KM,Automatic
+Proton Persona,Proton,2016,"24,400",128195 KM,Automatic
+Honda CR-V,Honda,2023,"142,000",30 - 35K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2023,"110,000",10 - 15K KM,Automatic
+Perodua Myvi,Perodua,2018,"43,000",43416 KM,Automatic
+Perodua Myvi,Perodua,2019,"46,000",94028 KM,Automatic
+Subaru XV,Subaru,2019,"79,800",55 - 60K KM,Automatic
+Nissan Almera,Nissan,2017,"34,000",122571 KM,Automatic
+Honda Civic,Honda,2023,"126,400",10 - 15K KM,Automatic
+Honda Civic,Honda,2016,"75,300",125 - 130K KM,Automatic
+Perodua Myvi,Perodua,2020,"48,000",70 - 75K KM,Automatic
+Perodua Bezza,Perodua,2019,"31,500",70479 KM,Automatic
+Honda Jazz,Honda,2017,"51,000",99915 KM,Automatic
+Honda City,Honda,2014,"38,800",120 - 125K KM,Automatic
+Perodua Bezza,Perodua,2016,"32,200",117750 KM,Automatic
+Proton Exora,Proton,2020,"44,400",69977 KM,Automatic
+Perodua Myvi,Perodua,2020,"49,000",30 - 35K KM,Automatic
+Perodua Myvi,Perodua,2023,"54,500",5 - 10K KM,Automatic
+Proton Persona,Proton,2020,"33,800",68562 KM,Automatic
+Perodua Bezza,Perodua,2016,"31,800",111911 KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",96580 KM,Automatic
+Proton Saga,Proton,2021,"31,900",44293 KM,Automatic
+Mazda CX-3,Mazda,2022,"95,000",30 - 35K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2018,"59,800",80 - 85K KM,Automatic
+Toyota Vellfire,Toyota,2017,"149,800",70 - 75K KM,Automatic
+BMW 520i,BMW,2020,"139,800",70 - 75K KM,Automatic
+Ford Ranger,Ford,2018,"61,800",55 - 60K KM,Automatic
+BMW X5,BMW,2019,"88,800",80 - 85K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"225,800",50 - 55K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2021,"76,800",55 - 60K KM,Automatic
+Toyota Vellfire,Toyota,2017,"124,800",80 - 85K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2019,"62,800",65 - 70K KM,Automatic
+Isuzu D-Max,Isuzu,2024,"95,800",35 - 40K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2021,"166,800",45 - 50K KM,Automatic
+Toyota Alphard,Toyota,2019,"161,800",90 - 95K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2020,"89,800",75 - 80K KM,Automatic
+BMW 330i,BMW,2022,"175,800",35 - 40K KM,Automatic
+Toyota Vellfire,Toyota,2019,"177,800",65 - 70K KM,Automatic
+Nissan Navara,Nissan,2019,"54,800",70 - 75K KM,Automatic
+Toyota Vellfire,Toyota,2021,"209,500",20 - 25K KM,Automatic
+Honda CR-V,Honda,2022,"113,800",75 - 80K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2023,"141,800",0 - 5K KM,Automatic
+BMW 320i,BMW,2020,"149,800",50 - 55K KM,Automatic
+BMW X1,BMW,2022,"156,800",50 - 55K KM,Automatic
+BMW 320i,BMW,2021,"155,800",45 - 50K KM,Automatic
+BMW X3,BMW,2021,"219,800",35 - 40K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2022,"248,000",20 - 25K KM,Automatic
+BMW 320i,BMW,2023,"225,000",5 - 10K KM,Automatic
+Audi A4,Audi,2016,"89,888",55 - 60K KM,Automatic
+Perodua Myvi,Perodua,2015,"26,400",92951 KM,Automatic
+Toyota Vios,Toyota,2023,"75,800",25 - 30K KM,Automatic
+Proton Saga,Proton,2019,"27,000",77466 KM,Automatic
+Proton Persona,Proton,2017,"30,000",127106 KM,Automatic
+Perodua Bezza,Perodua,2019,"36,000",96806 KM,Automatic
+Perodua Myvi,Perodua,2018,"42,800",106486 KM,Automatic
+Toyota Vios,Toyota,2007,"22,800",185099 KM,Automatic
+Perodua Myvi,Perodua,2013,"21,500",195775 KM,Automatic
+Perodua Bezza,Perodua,2016,"26,000",133794 KM,Automatic
+Honda City,Honda,2019,"61,200",83488 KM,Automatic
+Perodua Myvi,Perodua,2024,"53,800",15698 KM,Automatic
+Honda Jazz,Honda,2016,"52,000",130181 KM,Automatic
+Toyota Yaris,Toyota,2019,"62,900",64752 KM,Automatic
+Perodua Myvi,Perodua,2019,"45,800",62059 KM,Automatic
+Nissan Almera,Nissan,2018,"29,777",65 - 70K KM,Automatic
+Honda City,Honda,2018,"53,777",55 - 60K KM,Automatic
+Honda City,Honda,2021,"66,777",70 - 75K KM,Automatic
+Nissan Almera,Nissan,2014,"19,999",100 - 105K KM,Automatic
+Perodua Myvi,Perodua,2012,"21,999",120 - 125K KM,Automatic
+Perodua Myvi,Perodua,2008,"11,999",100 - 105K KM,Automatic
+Toyota Wish,Toyota,2014,"58,900",175 - 180K KM,Automatic
+Proton Preve,Proton,2015,"19,100",120 - 125K KM,Automatic
+Suzuki Swift,Suzuki,2010,"17,900",195 - 200K KM,Automatic
+Perodua Aruz,Perodua,2019,"54,000",95 - 100K KM,Automatic
+Toyota Yaris,Toyota,2019,"60,000",65 - 70K KM,Automatic
+Perodua Myvi,Perodua,2021,"49,000",55 - 60K KM,Automatic
+Perodua Aruz,Perodua,2019,"54,000",85 - 90K KM,Automatic
+Perodua Bezza,Perodua,2019,"36,000",40 - 45K KM,Automatic
+Toyota Vios,Toyota,2015,"40,900",125 - 130K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2022,"225,000",25 - 30K KM,Automatic
+Perodua AXIA,Perodua,2020,"31,900",59356 KM,Automatic
+Perodua Bezza,Perodua,2018,"35,700",59881 KM,Automatic
+BMW X5,BMW,2021,"275,000",40 - 45K KM,Automatic
+Perodua AXIA,Perodua,2022,"37,400",40914 KM,Automatic
+Honda Jazz,Honda,2016,"40,000",60 - 65K KM,Automatic
+Porsche 718,Porsche,2023,"790,000",5 - 10K KM,Automatic
+Perodua Aruz,Perodua,2020,"55,900",65120 KM,Automatic
+Perodua Myvi,Perodua,2021,"49,000",65610 KM,Automatic
+Proton Saga,Proton,2018,"25,800",69032 KM,Automatic
+Honda Civic,Honda,2021,"113,900",24502 KM,Automatic
+Toyota Corolla Altis,Toyota,2014,"36,500",245 - 250K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2018,"120,000",160 - 165K KM,Automatic
+Perodua Bezza,Perodua,2017,"35,000",104845 KM,Automatic
+Perodua Bezza,Perodua,2019,"36,200",95 - 100K KM,Automatic
+MINI 3 Door,MINI,2017,"118,000",47629 KM,Automatic
+BMW X1,BMW,2022,"149,800",50 - 55K KM,Automatic
+Honda Civic,Honda,2017,"79,900",81987 KM,Automatic
+Nissan Grand Livina,Nissan,2012,"23,400",140 - 145K KM,Automatic
+Perodua Bezza,Perodua,2017,"34,800",110 - 115K KM,Automatic
+Honda Jazz,Honda,2015,"44,900",115 - 120K KM,Automatic
+Kia Sportage,Kia,2014,"32,800",190 - 195K KM,Automatic
+Honda Jazz,Honda,2017,"56,000",85 - 90K KM,Automatic
+Proton Iriz,Proton,2017,"29,800",57523 KM,Automatic
+Honda Jazz,Honda,2017,"56,000",70 - 75K KM,Automatic
+Nissan Almera,Nissan,2015,"26,800",105 - 110K KM,Automatic
+Nissan Serena,Nissan,2018,"82,000",95 - 100K KM,Automatic
+Perodua Myvi,Perodua,2018,"40,999",55 - 60K KM,Automatic
+Perodua Bezza,Perodua,2019,"36,200",76914 KM,Automatic
+BMW X1,BMW,2019,"89,800",45 - 50K KM,Automatic
+Perodua Aruz,Perodua,2020,"54,900",83705 KM,Automatic
+Toyota Alphard,Toyota,2020,"229,999",25 - 30K KM,Automatic
+Lamborghini Aventador,Lamborghini,2018,"2,650,000",20 - 25K KM,Automatic
+Proton X70,Proton,2022,"83,000",38791 KM,Automatic
+Toyota Vios,Toyota,2018,"54,800",100 - 105K KM,Automatic
+Perodua Bezza,Perodua,2017,"32,800",110 - 115K KM,Automatic
+Perodua AXIA,Perodua,2017,"27,800",145312 KM,Automatic
+Perodua Aruz,Perodua,2019,"53,900",90877 KM,Automatic
+Perodua Alza,Perodua,2011,"21,900",187641 KM,Automatic
+Perodua Myvi,Perodua,2018,"43,500",59573 KM,Automatic
+Perodua AXIA,Perodua,2019,"29,400",102722 KM,Automatic
+Volkswagen Tiguan,Volkswagen,2018,"76,800",95122 KM,Automatic
+Audi A5,Audi,2019,"167,000",30 - 35K KM,Automatic
+Toyota Vios,Toyota,2019,"56,900",80 - 85K KM,Automatic
+Nissan Almera,Nissan,2016,"31,800",121033 KM,Automatic
+Toyota Yaris,Toyota,2020,"60,000",35 - 40K KM,Automatic
+Perodua Myvi,Perodua,2016,"34,300",116137 KM,Automatic
+Mazda 3,Mazda,2019,"112,000",97712 KM,Automatic
+Honda HR-V,Honda,2017,"59,800",130 - 135K KM,Automatic
+Proton Saga,Proton,2017,"24,000",92499 KM,Automatic
+Honda City,Honda,2019,"58,000",72830 KM,Automatic
+Perodua Bezza,Perodua,2017,"34,800",106300 KM,Automatic
+Perodua Bezza,Perodua,2016,"32,500",123207 KM,Automatic
+Honda City,Honda,2017,"54,000",117302 KM,Automatic
+BMW 520i,BMW,2019,"159,800",75 - 80K KM,Automatic
+Mazda CX-5,Mazda,2022,"116,800",60 - 65K KM,Automatic
+Toyota Alphard,Toyota,2019,"199,000",50 - 55K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2021,"101,800",40 - 45K KM,Automatic
+Honda Civic,Honda,2020,"95,800",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2013,"19,800",90 - 95K KM,Automatic
+Mazda 3,Mazda,2020,"113,800",95 - 100K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2016,"139,800",90 - 95K KM,Automatic
+Honda City,Honda,2022,"69,800",20 - 25K KM,Automatic
+Land Rover Range Rover Velar,Land,2021,"288,800",20 - 25K KM,Automatic
+BMW 328i,BMW,2015,"49,800",100 - 105K KM,Automatic
+BMW 330i,BMW,2020,"179,800",50 - 55K KM,Automatic
+Mercedes-Benz CLA45 AMG,Mercedes-Benz,2022,"375,000",15 - 20K KM,Automatic
+Honda Civic,Honda,2021,"83,800",60 - 65K KM,Automatic
+Peugeot 3008,Peugeot,2018,"54,800",100 - 105K KM,Automatic
+Honda HR-V,Honda,2020,"79,800",65 - 70K KM,Automatic
+Toyota Hilux,Toyota,2015,"61,800",110 - 115K KM,Automatic
+Toyota Camry,Toyota,2017,"69,800",95 - 100K KM,Automatic
+BMW 530i,BMW,2022,"259,800",60 - 65K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2022,"205,800",40 - 45K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2019,"69,800",55 - 60K KM,Automatic
+Mazda 3,Mazda,2016,"48,800",125 - 130K KM,Automatic
+Ford Ranger,Ford,2017,"55,800",90 - 95K KM,Automatic
+Honda City,Honda,2021,"63,800",45 - 50K KM,Automatic
+Proton Saga,Proton,2019,"23,800",70 - 75K KM,Automatic
+Proton X70,Proton,2021,"67,800",60 - 65K KM,Automatic
+Honda HR-V,Honda,2021,"79,800",85 - 90K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2013,"48,500",80 - 85K KM,Automatic
+Perodua Alza,Perodua,2022,"56,800",30 - 35K KM,Automatic
+Hyundai Grand Starex,Hyundai,2014,"51,800",110 - 115K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2016,"121,800",75 - 80K KM,Automatic
+Subaru XV,Subaru,2015,"33,800",95 - 100K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2020,"83,800",85 - 90K KM,Automatic
+Honda Civic,Honda,2015,"44,800",90 - 95K KM,Automatic
+BMW 520d,BMW,2013,"46,800",130 - 135K KM,Automatic
+Mazda CX-5,Mazda,2018,"68,800",75 - 80K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2019,"199,800",20 - 25K KM,Automatic
+Mazda 3,Mazda,2018,"62,800",45 - 50K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2014,"71,800",125 - 130K KM,Automatic
+BMW 320d,BMW,2014,"48,500",65 - 70K KM,Automatic
+BMW X5,BMW,2020,"238,800",20 - 25K KM,Automatic
+BMW X3,BMW,2022,"225,500",25 - 30K KM,Automatic
+BMW X6,BMW,2022,"515,000",25 - 30K KM,Automatic
+Perodua AXIA,Perodua,2014,"15,900",80 - 85K KM,Automatic
+Perodua Bezza,Perodua,2023,"40,888",10 - 15K KM,Automatic
+Nissan X-Trail,Nissan,2019,"51,888",55 - 60K KM,Automatic
+Mercedes-Benz GLA200,Mercedes-Benz,2019,"115,888",65 - 70K KM,Automatic
+Honda Civic,Honda,2019,"82,888",55 - 60K KM,Automatic
+Honda CR-V,Honda,2019,"90,888",70 - 75K KM,Automatic
+Honda CR-V,Honda,2020,"94,888",65 - 70K KM,Automatic
+Honda HR-V,Honda,2017,"54,888",65 - 70K KM,Automatic
+Proton Persona,Proton,2020,"30,888",60 - 65K KM,Automatic
+Honda Accord,Honda,2021,"121,888",55 - 60K KM,Automatic
+BMW X1,BMW,2018,"62,888",55 - 60K KM,Automatic
+Nissan Almera,Nissan,2022,"59,888",20 - 25K KM,Automatic
+Toyota Vios,Toyota,2018,"39,888",45 - 50K KM,Automatic
+Honda Civic,Honda,2015,"37,888",90 - 95K KM,Automatic
+Mazda 6,Mazda,2016,"68,888",70 - 75K KM,Automatic
+Mitsubishi Outlander,Mitsubishi,2019,"64,888",60 - 65K KM,Automatic
+Honda City,Honda,2013,"24,888",80 - 85K KM,Automatic
+Proton Persona,Proton,2019,"25,888",75 - 80K KM,Automatic
+Toyota Camry,Toyota,2013,"33,888",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2017/2018,"36,888",70 - 75K KM,Automatic
+Toyota Hilux,Toyota,2016,"64,888",70 - 75K KM,Manual
+Toyota Corolla Altis,Toyota,2018,"59,888",70 - 75K KM,Automatic
+Honda HR-V,Honda,2020,"65,888",50 - 55K KM,Automatic
+Perodua Myvi,Perodua,2010,"14,888",125 - 130K KM,Automatic
+Mercedes-Benz E350 e,Mercedes-Benz,2017,"115,888",60 - 65K KM,Automatic
+Honda Civic,Honda,2019,"68,888",50 - 55K KM,Automatic
+Proton X70,Proton,2021,"56,888",55 - 60K KM,Automatic
+Toyota Vios,Toyota,2018,"47,888",75 - 80K KM,Automatic
+Ford Ranger,Ford,2019,"77,888",55 - 60K KM,Automatic
+Nissan Serena,Nissan,2023,"127,888",0 - 5K KM,Automatic
+Toyota Yaris,Toyota,2023,"70,888",10 - 15K KM,Automatic
+Volvo S60,Volvo,2020,"144,800",25 - 30K KM,Automatic
+Perodua Myvi,Perodua,2019,"46,000",80921 KM,Automatic
+Honda Civic,Honda,2012,"45,888",100 - 105K KM,Automatic
+Perodua Alza,Perodua,2014,"24,888",75 - 80K KM,Automatic
+Nissan Almera,Nissan,2014,"22,400",175 - 180K KM,Automatic
+Perodua Aruz,Perodua,2020,"56,000",41429 KM,Automatic
+Toyota Yaris,Toyota,2021,"66,400",30405 KM,Automatic
+Honda Civic,Honda,2016,"75,900",85 - 90K KM,Automatic
+Mazda CX-5,Mazda,2017,"57,888",80 - 85K KM,Automatic
+Honda Accord,Honda,2008,"19,000",245 - 250K KM,Automatic
+Toyota Corolla Altis,Toyota,2020,"102,000",50 - 55K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2015,"69,888",50 - 55K KM,Automatic
+Perodua AXIA,Perodua,2017,"25,888",80 - 85K KM,Automatic
+Proton Saga,Proton,2024,"32,888",5 - 10K KM,Automatic
+Perodua Alza,Perodua,2011,"18,888",100 - 105K KM,Automatic
+Perodua Myvi,Perodua,2012,"15,888",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2019,"33,888",40 - 45K KM,Automatic
+Mazda CX-5,Mazda,2018,"68,888",55 - 60K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2019,"125,800",80 - 85K KM,Automatic
+Honda HR-V,Honda,2015,"44,900",80 - 85K KM,Automatic
+Hyundai Grand Starex,Hyundai,2019,"119,800",45 - 50K KM,Automatic
+BMW 320i,BMW,2024,"249,800",0 - 5K KM,Automatic
+BMW X4,BMW,2022,"308,000",45 - 50K KM,Automatic
+Kia Cerato,Kia,2015,"23,800",90 - 95K KM,Automatic
+Toyota Alphard,Toyota,2016/2018,"149,800",60 - 65K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"169,800",55 - 60K KM,Automatic
+BMW 330e,BMW,2019,"99,000",65 - 70K KM,Automatic
+Audi A6,Audi,2013,"27,000",110 - 115K KM,Automatic
+Perodua AXIA,Perodua,2019,"32,000",74069 KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2013/2015,"108,800",135 - 140K KM,Automatic
+BMW X5,BMW,2022,"319,000",30 - 35K KM,Automatic
+Ford Fiesta,Ford,2015,"68,000",60 - 65K KM,Manual
+Nissan Latio,Nissan,2008,"9,800",170 - 175K KM,Automatic
+Perodua Bezza,Perodua,2017,"35,200",120749 KM,Automatic
+Mazda CX-3,Mazda,2019,"63,000",105 - 110K KM,Automatic
+Mazda CX-3,Mazda,2019,"63,000",105 - 110K KM,Automatic
+Toyota Vios,Toyota,2010,"18,800",210 - 215K KM,Manual
+Mercedes-Benz C200,Mercedes-Benz,2018,"148,000",35 - 40K KM,Automatic
+Proton Persona,Proton,2016,"24,800",132169 KM,Automatic
+Perodua Myvi,Perodua,2017,"37,100",95428 KM,Automatic
+Toyota Innova,Toyota,2020,"94,800",50 - 55K KM,Automatic
+MINI Clubman,MINI,2019/2023,"169,800",25 - 30K KM,Automatic
+Honda CR-V,Honda,2005,"13,800",195 - 200K KM,Automatic
+Mercedes-Benz CLA200,Mercedes-Benz,2015,"86,800",75 - 80K KM,Automatic
+Honda City,Honda,2023,"73,800",30 - 35K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2018,"135,800",60 - 65K KM,Automatic
+Toyota Vellfire,Toyota,2015/2020,"137,800",70 - 75K KM,Automatic
+Nissan Navara,Nissan,2021,"89,800",95 - 100K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2020,"89,800",95 - 100K KM,Automatic
+Toyota Vellfire,Toyota,2015/2020,"137,800",70 - 75K KM,Automatic
+Nissan Navara,Nissan,2021,"89,800",95 - 100K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2020,"89,800",95 - 100K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2013/2016,"89,800",80 - 85K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2020/2021,"95,800",75 - 80K KM,Automatic
+Toyota Hilux,Toyota,2021,"96,800",120 - 125K KM,Automatic
+Perodua Myvi,Perodua,2018,"41,000",104174 KM,Automatic
+Proton Saga,Proton,2020,"29,200",51402 KM,Automatic
+Proton Saga,Proton,2017,"24,000",130808 KM,Automatic
+Proton Iriz,Proton,2015,"19,900",102542 KM,Automatic
+Perodua Myvi,Perodua,2014,"23,000",173491 KM,Automatic
+Perodua Myvi,Perodua,2015,"25,000",146866 KM,Automatic
+Honda City,Honda,2017,"51,200",120678 KM,Automatic
+Toyota Vios,Toyota,2017,"49,000",123989 KM,Automatic
+Perodua Myvi,Perodua,2019,"42,800",49153 KM,Automatic
+Proton Iriz,Proton,2021,"30,888",50 - 55K KM,Automatic
+Perodua Myvi,Perodua,2018,"33,888",40 - 45K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2020,"177,800",50 - 55K KM,Automatic
+Perodua Myvi,Perodua,2010,"12,500",205 - 210K KM,Automatic
+Toyota Corolla Altis,Toyota,2020,"89,888",75 - 80K KM,Automatic
+Honda Civic,Honda,2022,"123,000",32557 KM,Automatic
+Perodua Myvi,Perodua,2014,"25,500",166246 KM,Automatic
+Toyota Corolla Altis,Toyota,2020,"89,888",75 - 80K KM,Automatic
+Honda Civic,Honda,2022,"123,000",32557 KM,Automatic
+Perodua Myvi,Perodua,2014,"25,500",166246 KM,Automatic
+Perodua Myvi,Perodua,2020,"46,800",73943 KM,Automatic
+Perodua Myvi,Perodua,2021,"40,000",65234 KM,Automatic
+Perodua Myvi,Perodua,2017,"35,800",137481 KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",94766 KM,Automatic
+Perodua Myvi,Perodua,2019,"42,800",89391 KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",85736 KM,Automatic
+Proton X70,Proton,2021,"73,500",44761 KM,Automatic
+Proton X70,Proton,2019,"64,900",61379 KM,Automatic
+Perodua Alza,Perodua,2011,"21,900",190133 KM,Automatic
+Toyota Alphard,Toyota,2020,"229,400",48795 KM,Automatic
+Toyota Vios,Toyota,2021,"70,400",46025 KM,Automatic
+Perodua Myvi,Perodua,2015,"25,900",111800 KM,Automatic
+Honda City,Honda,2006,"10,800",105 - 110K KM,Automatic
+Honda City,Honda,2005,"10,800",105 - 110K KM,Automatic
+MINI Countryman,MINI,2023,"208,888",35 - 40K KM,Automatic
+BMW 320i,BMW,2020,"148,000",50 - 55K KM,Automatic
+Nissan Almera,Nissan,2017,"32,500",120 - 125K KM,Automatic
+Toyota Vios,Toyota,2017,"52,000",105 - 110K KM,Automatic
+Honda City,Honda,2008,"12,800",105 - 110K KM,Automatic
+BMW X1,BMW,2022,"155,800",50 - 55K KM,Automatic
+BMW 330i,BMW,2024,"258,800",10 - 15K KM,Automatic
+MINI Countryman,MINI,2024,"228,888",0 - 5K KM,Automatic
+Perodua AXIA,Perodua,2016,"27,400",71131 KM,Automatic
+BMW 528i,BMW,2016,"125,000",49000 KM,Automatic
+Audi S4,Audi,2009,"72,000",125 - 130K KM,Automatic
+Perodua Myvi,Perodua,2016,"34,000",130 - 135K KM,Automatic
+Perodua AXIA,Perodua,2018,"28,900",85 - 90K KM,Automatic
+Perodua Bezza,Perodua,2017,"32,000",85 - 90K KM,Automatic
+Perodua AXIA,Perodua,2017,"22,000",140 - 145K KM,Automatic
+Honda Jazz,Honda,2013,"33,400",125424 KM,Automatic
+Perodua Myvi,Perodua,2012,"22,900",120 - 125K KM,Automatic
+Proton Saga,Proton,2019,"25,800",40 - 45K KM,Automatic
+BMW 330i,BMW,2024,"265,800",10 - 15K KM,Automatic
+Mazda CX-5,Mazda,2016,"50,000",65 - 70K KM,Automatic
+BMW X5,BMW,2020,"262,800",55 - 60K KM,Automatic
+Perodua Alza,Perodua,2012,"19,300",105 - 110K KM,Automatic
+Porsche Macan,Porsche,2015,"175,000",110 - 115K KM,Automatic
+BMW 530i,BMW,2019,"175,000",65 - 70K KM,Automatic
+Porsche Macan,Porsche,2015,"175,000",110 - 115K KM,Automatic
+BMW 530i,BMW,2019,"175,000",65 - 70K KM,Automatic
+Peugeot 208,Peugeot,2014,"19,000",115 - 120K KM,Automatic
+Mazda 3,Mazda,2012,"56,800",80 - 85K KM,Manual
+Honda Civic,Honda,2021,"83,888",55 - 60K KM,Automatic
+Honda Civic,Honda,2015,"32,888",60 - 65K KM,Automatic
+Toyota Yaris,Toyota,2024,"69,888",0 - 5K KM,Automatic
+Honda HR-V,Honda,2019,"58,888",50 - 55K KM,Automatic
+Porsche 911,Porsche,2019,"688,000",25 - 30K KM,Automatic
+Mazda CX-5,Mazda,2015,"46,800",95 - 100K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2011,"43,800",135 - 140K KM,Automatic
+Perodua Myvi,Perodua,2018,"35,400",132416 KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2014/2017,"118,800",105 - 110K KM,Automatic
+Proton Exora,Proton,2018,"25,800",65 - 70K KM,Automatic
+Volkswagen Scirocco,Volkswagen,2012,"37,800",95 - 100K KM,Automatic
+Honda Jazz,Honda,2018,"63,800",135 - 140K KM,Automatic
+Honda Jazz,Honda,2016,"43,800",80 - 85K KM,Automatic
+BMW 330e,BMW,2019,"71,800",60 - 65K KM,Automatic
+BMW X5,BMW,2019,"98,800",65 - 70K KM,Automatic
+Mazda 3,Mazda,2016,"46,800",75 - 80K KM,Automatic
+Perodua Myvi,Perodua,2017,"37,800",100 - 105K KM,Automatic
+Honda HR-V,Honda,2017,"49,800",125 - 130K KM,Automatic
+Smart Forfour,Smart,2005,"10,850",165 - 170K KM,Automatic
+Perodua Myvi,Perodua,2018,"40,800",85 - 90K KM,Automatic
+Honda CR-V,Honda,2020,"93,800",115 - 120K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2012,"49,800",115 - 120K KM,Automatic
+Honda City,Honda,2017,"52,800",95 - 100K KM,Automatic
+Honda City,Honda,2024,"71,800",0 - 5K KM,Automatic
+Toyota Estima,Toyota,2009,"55,800",100 - 105K KM,Automatic
+Honda Civic,Honda,2015,"42,800",110 - 115K KM,Automatic
+Honda Civic,Honda,2020,"95,800",110 - 115K KM,Automatic
+Honda Civic,Honda,2018,"89,800",155 - 160K KM,Automatic
+Perodua Myvi,Perodua,2017,"37,800",115 - 120K KM,Automatic
+Honda CR-V,Honda,2018,"79,800",75 - 80K KM,Automatic
+Honda City,Honda,2015,"31,888",85 - 90K KM,Automatic
+BMW 318i,BMW,2017,"51,888",75 - 80K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2022,"90,888",25 - 30K KM,Automatic
+Nissan Serena,Nissan,2021,"81,888",55 - 60K KM,Automatic
+BMW X5,BMW,2020,"253,888",40 - 45K KM,Automatic
+Perodua Bezza,Perodua,2021,"37,888",60 - 65K KM,Automatic
+Toyota Vios,Toyota,2009,"18,888",90 - 95K KM,Automatic
+Toyota Harrier,Toyota,2017,"87,888",70 - 75K KM,Automatic
+Toyota Vios,Toyota,2009,"18,888",90 - 95K KM,Automatic
+Toyota Harrier,Toyota,2017,"87,888",70 - 75K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2016,"50,888",45 - 50K KM,Manual
+Nissan Almera,Nissan,2020,"57,888",40 - 45K KM,Automatic
+Honda Accord,Honda,2016,"47,888",70 - 75K KM,Automatic
+Toyota Yaris,Toyota,2022,"65,888",30 - 35K KM,Automatic
+Honda City,Honda,2016,"37,888",80 - 85K KM,Automatic
+Nissan Serena,Nissan,2018,"79,800",130 - 135K KM,Automatic
+Proton Persona,Proton,2015,"11,800",160 - 165K KM,Automatic
+Proton Persona,Proton,2023,"47,400",13225 KM,Automatic
+BMW X1,BMW,2021,"129,000",75 - 80K KM,Automatic
+Perodua Myvi,Perodua,2019,"43,000",101462 KM,Automatic
+Proton Ertiga,Proton,2017,"31,200",108724 KM,Automatic
+Perodua Myvi,Perodua,2019,"45,800",68446 KM,Automatic
+Toyota Vellfire,Toyota,2016,"179,999",55 - 60K KM,Automatic
+Nissan Grand Livina,Nissan,2015,"34,788",155 - 160K KM,Automatic
+Audi Q7,Audi,2011,"49,788",130 - 135K KM,Automatic
+Mazda 3,Mazda,2013,"28,788",180 - 185K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2012/2014,"42,788",105 - 110K KM,Automatic
+Mazda CX-5,Mazda,2018,"79,688",70 - 75K KM,Automatic
+Lexus RX270,Lexus,2014,"86,888",85 - 90K KM,Automatic
+Honda Civic,Honda,2017,"79,800",105 - 110K KM,Automatic
+Toyota Vellfire,Toyota,2015,"155,800",100 - 105K KM,Automatic
+Toyota Vios,Toyota,2013,"29,800",120 - 125K KM,Automatic
+Honda Civic,Honda,2017,"79,800",105 - 110K KM,Automatic
+Toyota Vellfire,Toyota,2015,"155,800",100 - 105K KM,Automatic
+Toyota Vios,Toyota,2013,"29,800",120 - 125K KM,Automatic
+Honda City,Honda,2010,"20,800",170 - 175K KM,Automatic
+Ford Ranger,Ford,2016,"42,800",115 - 120K KM,Automatic
+BMW X1,BMW,2016,"39,800",80 - 85K KM,Automatic
+Toyota Hilux,Toyota,2020,"98,800",65 - 70K KM,Automatic
+Toyota Hilux,Toyota,2021,"99,800",50 - 55K KM,Automatic
+Honda Jazz,Honda,2015,"40,888",80 - 85K KM,Automatic
+Subaru XV,Subaru,2022,"93,888",30 - 35K KM,Automatic
+Toyota Yaris,Toyota,2022,"59,888",35 - 40K KM,Automatic
+Kia Sportage,Kia,2018,"51,888",65 - 70K KM,Automatic
+Mitsubishi Outlander,Mitsubishi,2017,"55,888",55 - 60K KM,Automatic
+BMW X5,BMW,2017,"85,888",75 - 80K KM,Automatic
+BMW 120i,BMW,2017,"64,888",60 - 65K KM,Automatic
+Nissan Serena,Nissan,2023,"127,888",0 - 5K KM,Automatic
+Toyota Rush,Toyota,2019,"56,888",85 - 90K KM,Automatic
+BMW 330i,BMW,2021,"168,000",65 - 70K KM,Automatic
+Honda City,Honda,2019,"57,888",70 - 75K KM,Automatic
+Proton Exora,Proton,2017,"23,888",50 - 55K KM,Automatic
+Honda Accord,Honda,2021,"121,888",55 - 60K KM,Automatic
+Volkswagen Vento,Volkswagen,2019,"25,888",30 - 35K KM,Automatic
+Honda City,Honda,2018,"50,888",65 - 70K KM,Automatic
+Honda City,Honda,2018,"50,888",65 - 70K KM,Automatic
+Mazda CX-5,Mazda,2020,"103,888",55 - 60K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2023,"288,000",30 - 35K KM,Automatic
+Mercedes-Benz A45 AMG,Mercedes-Benz,2021,"299,000",15 - 20K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2018,"197,800",70 - 75K KM,Automatic
+Perodua Bezza,Perodua,2017,"29,000",149000 KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2023,"283,000",20 - 25K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2018/2019,"150,000",55 - 60K KM,Automatic
+Land Rover Range Rover Evoque,Land,2013,"88,000",65 - 70K KM,Automatic
+Proton Preve,Proton,2014,"15,000",100 - 105K KM,Manual
+Honda Accord,Honda,2016,"58,000",90 - 95K KM,Automatic
+BMW 520i,BMW,2013,"56,000",85 - 90K KM,Automatic
+Honda Accord,Honda,2014,"48,000",110 - 115K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2015,"89,000",110 - 115K KM,Automatic
+Nissan X-Trail,Nissan,2019,"64,888",90 - 95K KM,Automatic
+Honda Accord,Honda,2011,"28,800",125 - 130K KM,Automatic
+Nissan Grand Livina,Nissan,2014,"29,800",75 - 80K KM,Automatic
+Nissan Serena,Nissan,2012,"28,800",110 - 115K KM,Automatic
+Honda Civic,Honda,2016,"59,900",80 - 85K KM,Automatic
+Toyota Vios,Toyota,2014,"37,800",95 - 100K KM,Automatic
+Perodua Myvi,Perodua,2015,"29,800",85 - 90K KM,Automatic
+Nissan Serena,Nissan,2019,"85,000",60 - 65K KM,Automatic
+Volkswagen Golf,Volkswagen,2023,"161,800",35 - 40K KM,Automatic
+Toyota Wish,Toyota,2010,"46,800",110 - 115K KM,Automatic
+Volkswagen Golf,Volkswagen,2023,"161,800",35 - 40K KM,Automatic
+Toyota Wish,Toyota,2010,"46,800",110 - 115K KM,Automatic
+Nissan Serena,Nissan,2020,"90,000",50 - 55K KM,Automatic
+Toyota Vellfire,Toyota,2013,"90,000",80 - 85K KM,Automatic
+Toyota Vios,Toyota,2020,"61,000",65 - 70K KM,Automatic
+Porsche 911,Porsche,2018/2023,"499,000",40 - 45K KM,Automatic
+Nissan Serena,Nissan,2021,"95,000",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2019,"40,999",70 - 75K KM,Automatic
+Honda Civic,Honda,2017,"73,999",80 - 85K KM,Automatic
+Toyota Hilux,Toyota,2020,"101,999",45 - 50K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2021,"84,999",60 - 65K KM,Automatic
+Ford Ranger,Ford,2017,"56,999",65 - 70K KM,Automatic
+Perodua AXIA,Perodua,2017,"26,400",123817 KM,Automatic
+Honda Jazz,Honda,2017,"45,999",75 - 80K KM,Automatic
+Honda City,Honda,2018,"45,999",65 - 70K KM,Automatic
+Honda City,Honda,2018,"45,999",65 - 70K KM,Automatic
+Honda City,Honda,2017,"53,999",70 - 75K KM,Automatic
+Honda BR-V,Honda,2019,"58,400",103918 KM,Automatic
+Honda Accord,Honda,2015,"45,999",90 - 95K KM,Automatic
+Hyundai Tucson,Hyundai,2019,"59,500",89554 KM,Automatic
+Toyota Vios,Toyota,2022,"61,999",20 - 25K KM,Automatic
+Honda City,Honda,2018,"49,000",85 - 90K KM,Automatic
+Toyota Vios,Toyota,2022,"61,999",20 - 25K KM,Automatic
+Honda City,Honda,2018,"49,000",85 - 90K KM,Automatic
+Toyota Alphard,Toyota,2016,"175,000",80 - 85K KM,Automatic
+Perodua Alza,Perodua,2015,"31,800",170 - 175K KM,Automatic
+Toyota Vellfire,Toyota,2010,"77,000",90 - 95K KM,Automatic
+Nissan X-Trail,Nissan,2021,"86,000",85 - 90K KM,Automatic
+Perodua Myvi,Perodua,2010,"13,000",120 - 125K KM,Automatic
+Nissan Almera,Nissan,2014,"17,800",105 - 110K KM,Automatic
+Honda Civic,Honda,2018,"74,800",75 - 80K KM,Automatic
+Honda HR-V,Honda,2017,"55,800",90 - 95K KM,Automatic
+Nissan Serena,Nissan,2017,"59,000",90 - 95K KM,Automatic
+Mazda CX-5,Mazda,2019,"89,800",65 - 70K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2012/2013,"50,000",75 - 80K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2015,"89,000",90 - 95K KM,Automatic
+Nissan Teana,Nissan,2014,"36,000",110 - 115K KM,Automatic
+Mercedes-Benz CLA45 AMG,Mercedes-Benz,2020,"345,800",35 - 40K KM,Automatic
+Kia Cerato,Kia,2014,"30,000",95 - 100K KM,Automatic
+Toyota Vios,Toyota,2014,"39,000",90 - 95K KM,Automatic
+Nissan Grand Livina,Nissan,2014,"33,000",80 - 85K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2011,"42,000",85 - 90K KM,Automatic
+Honda CR-V,Honda,2007,"22,000",120 - 125K KM,Automatic
+Nissan X-Trail,Nissan,2017,"55,000",85 - 90K KM,Automatic
+Mazda 3,Mazda,2017,"59,800",80 - 85K KM,Automatic
+BMW X5,BMW,2017,"101,000",70 - 75K KM,Automatic
+Mazda 3,Mazda,2017,"59,800",80 - 85K KM,Automatic
+BMW X5,BMW,2017,"101,000",70 - 75K KM,Automatic
+Perodua Bezza,Perodua,2018,"35,200",70 - 75K KM,Automatic
+Perodua Bezza,Perodua,2019,"35,800",90 - 95K KM,Automatic
+Honda CR-V,Honda,2015,"49,800",95 - 100K KM,Automatic
+BMW 530e,BMW,2018,"110,000",45 - 50K KM,Automatic
+Honda Accord,Honda,2015,"57,000",85 - 90K KM,Automatic
+Mercedes-Benz CLA200,Mercedes-Benz,2015,"90,000",95 - 100K KM,Automatic
+Mazda CX-5,Mazda,2016,"49,800",75 - 80K KM,Automatic
+Toyota Vios,Toyota,2020,"62,000",75 - 80K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2018,"128,000",55 - 60K KM,Automatic
+BMW 530i,BMW,2023,"298,000",25 - 30K KM,Automatic
+MINI 3 Door,MINI,2024,"185,000",5 - 10K KM,Automatic
+Mazda CX-5,Mazda,2016,"49,800",105 - 110K KM,Automatic
+Mazda 3,Mazda,2017,"62,800",115 - 120K KM,Automatic
+Perodua AXIA,Perodua,2017,"28,600",99640 KM,Automatic
+Proton Saga,Proton,2019,"31,400",31699 KM,Automatic
+Mitsubishi ASX,Mitsubishi,2019,"55,400",85419 KM,Automatic
+Toyota Vios,Toyota,2017,"54,400",129153 KM,Automatic
+Perodua Myvi,Perodua,2014,"21,800",173059 KM,Automatic
+Honda HR-V,Honda,2018,"68,300",69393 KM,Automatic
+Perodua AXIA,Perodua,2022,"37,400",14527 KM,Automatic
+Perodua Myvi,Perodua,2020,"49,000",34972 KM,Automatic
+Perodua Myvi,Perodua,2016,"29,400",130862 KM,Automatic
+Perodua Myvi,Perodua,2016,"29,400",130862 KM,Automatic
+Perodua AXIA,Perodua,2015,"24,500",139038 KM,Automatic
+Perodua Aruz,Perodua,2020,"53,200",51780 KM,Automatic
+Proton Persona,Proton,2017,"28,500",104723 KM,Automatic
+Toyota Vios,Toyota,2011,"25,900",155 - 160K KM,Automatic
+Toyota Alphard,Toyota,2017/2019,"153,800",80 - 85K KM,Automatic
+Honda City,Honda,2016,"43,000",131216 KM,Automatic
+Toyota Vios,Toyota,2021,"70,400",42792 KM,Automatic
+Perodua AXIA,Perodua,2019,"31,600",102818 KM,Automatic
+Perodua Bezza,Perodua,2018,"36,700",85 - 90K KM,Automatic
+Perodua Alza,Perodua,2014,"31,888",150 - 155K KM,Automatic
+BMW 520i,BMW,2013,"55,800",140 - 145K KM,Automatic
+Mercedes-Benz E350 e,Mercedes-Benz,2018,"119,800",70 - 75K KM,Automatic
+Honda Jazz,Honda,2012,"24,800",100 - 105K KM,Automatic
+Perodua Myvi,Perodua,2012,"19,900",110 - 115K KM,Automatic
+Toyota Vios,Toyota,2008,"16,800",120 - 125K KM,Manual
+Honda City,Honda,2018,"51,800",135 - 140K KM,Automatic
+Honda Civic,Honda,2013,"37,800",115 - 120K KM,Automatic
+Honda HR-V,Honda,2017,"58,800",115 - 120K KM,Automatic
+Perodua Bezza,Perodua,2016,"19,700",80 - 85K KM,Manual
+Mazda 3,Mazda,2015,"27,800",120 - 125K KM,Automatic
+Toyota Alphard,Toyota,2015/2016,"163,800",85 - 90K KM,Automatic
+Mazda 3,Mazda,2015,"27,800",120 - 125K KM,Automatic
+Toyota Alphard,Toyota,2015/2016,"163,800",85 - 90K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2014,"77,600",80 - 85K KM,Automatic
+Toyota Vios,Toyota,2012,"29,600",95 - 100K KM,Automatic
+Honda City,Honda,2021,"71,600",55 - 60K KM,Automatic
+Toyota Vellfire,Toyota,2015,"146,800",55 - 60K KM,Automatic
+Honda BR-V,Honda,2017,"43,800",110 - 115K KM,Automatic
+Perodua AXIA,Perodua,2015,"19,800",140 - 145K KM,Automatic
+Honda Civic,Honda,2017,"83,800",75 - 80K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2021,"209,800",60 - 65K KM,Automatic
+BMW 530i,BMW,2023,"298,000",25 - 30K KM,Automatic
+Mazda CX-5,Mazda,2022,"115,888",35 - 40K KM,Automatic
+Perodua Myvi,Perodua,2020,"46,800",70 - 75K KM,Automatic
+Honda City,Honda,2017,"46,800",65 - 70K KM,Automatic
+Honda CR-V,Honda,2012,"27,800",110 - 115K KM,Automatic
+Toyota Vios,Toyota,2007,"24,800",155 - 160K KM,Automatic
+MINI 3 Door,MINI,2024,"185,000",5 - 10K KM,Automatic
+Proton Persona,Proton,2010,"10,800",170 - 175K KM,Automatic
+Perodua Myvi,Perodua,2019,"42,800",85 - 90K KM,Automatic
+Toyota Wish,Toyota,2010/2015,"45,800",185 - 190K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2018,"95,888",70 - 75K KM,Automatic
+Toyota Camry,Toyota,2016,"62,800",80 - 85K KM,Automatic
+Toyota Camry,Toyota,2016,"62,800",80 - 85K KM,Automatic
+Kia Sportage,Kia,2012,"23,800",135 - 140K KM,Automatic
+Honda Civic,Honda,2014,"31,800",105 - 110K KM,Automatic
+Toyota Vios,Toyota,2015,"32,800",100 - 105K KM,Automatic
+Toyota Land Cruiser Prado,Toyota,2010,"89,800",130 - 135K KM,Automatic
+Toyota Vellfire,Toyota,2014,"84,800",115 - 120K KM,Automatic
+Nissan Frontier,Nissan,2009,"14,800",205 - 210K KM,Manual
+Toyota Prius C,Toyota,2013,"16,888",60 - 65K KM,Automatic
+Nissan Frontier,Nissan,2008,"17,800",290 - 295K KM,Manual
+Ford Ranger,Ford,2003/2004,"17,800",215 - 220K KM,Automatic
+Proton Persona,Proton,2020,"31,800",60 - 65K KM,Automatic
+Proton Iriz,Proton,2020,"31,800",25 - 30K KM,Automatic
+Honda CR-V,Honda,2019,"99,000",85 - 90K KM,Automatic
+Toyota Wish,Toyota,2014,"58,900",175 - 180K KM,Automatic
+BMW 330i,BMW,2021,"188,800",60 - 65K KM,Automatic
+Nissan Navara,Nissan,2011,"25,800",150 - 155K KM,Automatic
+Nissan X-Trail,Nissan,2017,"49,800",90 - 95K KM,Automatic
+Mazda 3,Mazda,2015,"44,800",80 - 85K KM,Automatic
+Porsche 911,Porsche,2016,"548,000",45 - 50K KM,Automatic
+Toyota Vellfire,Toyota,2015/2017,"143,800",120 - 125K KM,Automatic
+Isuzu D-Max,Isuzu,2011,"21,800",140 - 145K KM,Manual
+Mitsubishi Triton,Mitsubishi,2007/2008,"25,800",165 - 170K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2015/2016,"86,800",90 - 95K KM,Automatic
+Perodua AXIA,Perodua,2018,"25,888",85 - 90K KM,Automatic
+Toyota Vios,Toyota,2017,"51,200",60 - 65K KM,Automatic
+Perodua Myvi,Perodua,2012,"22,800",55 - 60K KM,Automatic
+Proton X70,Proton,2020,"62,800",65 - 70K KM,Automatic
+Nissan Serena,Nissan,2018,"77,800",51650 KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2019,"165,000",30 - 35K KM,Automatic
+Volvo S90,Volvo,2021,"178,000",45 - 50K KM,Automatic
+Toyota Innova,Toyota,2017,"70,000",60 - 65K KM,Automatic
+Toyota Yaris,Toyota,2023,"73,000",10 - 15K KM,Automatic
+Toyota Innova,Toyota,2018,"63,888",55 - 60K KM,Automatic
+Subaru XV,Subaru,2022,"95,000",35 - 40K KM,Automatic
+Honda City,Honda,2019,"49,800",60 - 65K KM,Automatic
+Porsche Macan,Porsche,2017/2018,"210,000",40 - 45K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"247,000",55 - 60K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2019,"165,000",30 - 35K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2019,"165,000",30 - 35K KM,Automatic
+Honda Jazz,Honda,2020,"59,900",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2018,"42,800",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2019,"40,888",60 - 65K KM,Automatic
+Toyota Vios,Toyota,2023,"69,888",55 - 60K KM,Automatic
+Honda CR-V,Honda,2018,"85,888",75 - 80K KM,Automatic
+Honda BR-V,Honda,2018,"47,888",75 - 80K KM,Automatic
+Toyota Vios,Toyota,2017,"40,888",60 - 65K KM,Automatic
+Proton Persona,Proton,2020,"30,888",70 - 75K KM,Automatic
+Mazda 6,Mazda,2016,"50,888",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2011,"14,888",95 - 100K KM,Automatic
+Honda City,Honda,2016,"37,888",80 - 85K KM,Automatic
+Honda Civic,Honda,2016,"48,888",70 - 75K KM,Automatic
+Ford Ranger,Ford,2023,"124,888",50 - 55K KM,Automatic
+Perodua AXIA,Perodua,2016,"22,888",70 - 75K KM,Automatic
+Nissan Serena,Nissan,2018,"81,800",105 - 110K KM,Automatic
+Perodua Aruz,Perodua,2019,"49,500",87362 KM,Automatic
+BMW 330i,BMW,2020,"169,800",75 - 80K KM,Automatic
+Toyota Vios,Toyota,2015,"39,900",163443 KM,Automatic
+Honda City,Honda,2020,"67,000",61015 KM,Automatic
+Perodua AXIA,Perodua,2017,"26,000",142314 KM,Automatic
+Perodua Bezza,Perodua,2019,"36,200",96245 KM,Automatic
+Perodua Myvi,Perodua,2022,"51,000",40 - 45K KM,Automatic
+Perodua Myvi,Perodua,2012,"18,500",125 - 130K KM,Automatic
+Perodua Bezza,Perodua,2019,"36,200",96245 KM,Automatic
+Perodua Myvi,Perodua,2022,"51,000",40 - 45K KM,Automatic
+Perodua Myvi,Perodua,2012,"18,500",125 - 130K KM,Automatic
+Perodua Myvi,Perodua,2019,"43,200",93940 KM,Automatic
+Mitsubishi Triton,Mitsubishi,2008,"28,800",165 - 170K KM,Automatic
+Isuzu D-Max,Isuzu,2012,"28,800",150 - 155K KM,Manual
+Mitsubishi Triton,Mitsubishi,2009,"29,800",135 - 140K KM,Automatic
+Honda Civic,Honda,2018,"74,888",60 - 65K KM,Automatic
+Toyota Hilux,Toyota,2009,"35,800",155 - 160K KM,Automatic
+Toyota Hilux,Toyota,2016,"65,888",65 - 70K KM,Automatic
+Toyota Hilux,Toyota,2008,"37,800",160 - 165K KM,Automatic
+Nissan Navara,Nissan,2015,"37,800",130 - 135K KM,Automatic
+Mazda CX-5,Mazda,2017,"81,700",85 - 90K KM,Automatic
+Toyota Hilux,Toyota,2008,"37,800",145 - 150K KM,Automatic
+Proton X70,Proton,2021,"66,888",60 - 65K KM,Automatic
+Toyota Camry,Toyota,2012,"41,800",120 - 125K KM,Automatic
+Kia Picanto,Kia,2013,"14,800",80 - 85K KM,Automatic
+Mitsubishi ASX,Mitsubishi,2014,"34,999",75 - 80K KM,Automatic
+MINI Countryman,MINI,2023,"222,000",15 - 20K KM,Automatic
+Toyota Vios,Toyota,2016,"38,800",85 - 90K KM,Automatic
+Subaru XV,Subaru,2014/2016,"29,688",85 - 90K KM,Automatic
+BMW 316i,BMW,2014,"55,800",95 - 100K KM,Automatic
+Proton Saga,Proton,2008,"7,688",100 - 105K KM,Automatic
+Suzuki Swift,Suzuki,2012/2013,"25,800",105 - 110K KM,Automatic
+Perodua Myvi,Perodua,2019,"41,800",80 - 85K KM,Automatic
+Honda HR-V,Honda,2015,"45,800",95 - 100K KM,Automatic
+Honda City,Honda,2022,"68,000",15 - 20K KM,Automatic
+BMW 330i,BMW,2019,"164,800",70 - 75K KM,Automatic
+Honda CR-V,Honda,2023,"142,000",30 - 35K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2020,"175,800",65 - 70K KM,Automatic
+MINI Countryman,MINI,2023,"222,000",15 - 20K KM,Automatic
+Mazda CX-5,Mazda,2021,"113,000",55 - 60K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2017,"129,000",65 - 70K KM,Automatic
+Toyota Fortuner,Toyota,2013,"71,800",145 - 150K KM,Automatic
+Honda Civic,Honda,2016,"71,800",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2019,"42,800",55 - 60K KM,Automatic
+Ford Ranger,Ford,2016,"48,800",85 - 90K KM,Automatic
+BMW X1,BMW,2017,"68,500",80 - 85K KM,Automatic
+Volvo XC60,Volvo,2018,"125,800",90 - 95K KM,Automatic
+Honda Civic,Honda,2016,"78,800",90 - 95K KM,Automatic
+BMW 530i,BMW,2018,"155,800",50 - 55K KM,Automatic
+Honda City,Honda,2016,"45,800",100 - 105K KM,Automatic
+Audi A4,Audi,2014,"37,800",105 - 110K KM,Automatic
+Audi A4,Audi,2014,"37,800",105 - 110K KM,Automatic
+Mazda CX-5,Mazda,2018,"85,800",75 - 80K KM,Automatic
+Ford MUSTANG,Ford,2017,"168,800",20 - 25K KM,Automatic
+Toyota Hilux,Toyota,2019,"94,800",95 - 100K KM,Automatic
+Toyota Yaris,Toyota,2019,"60,000",75 - 80K KM,Automatic
+Perodua AXIA,Perodua,2017,"26,000",140 - 145K KM,Automatic
+Perodua Bezza,Perodua,2019,"36,000",103194 KM,Automatic
+Perodua Alza,Perodua,2020,"49,900",45082 KM,Automatic
+Perodua Myvi,Perodua,2013,"15,900",90 - 95K KM,Automatic
+Mazda CX-5,Mazda,2018,"85,800",77046 KM,Automatic
+Toyota Vios,Toyota,2016,"50,200",122039 KM,Automatic
+Toyota Vellfire,Toyota,2014,"76,800",110 - 115K KM,Automatic
+BMW 525i,BMW,2008,"30,000",250 - 255K KM,Automatic
+Proton Perdana,Proton,2019,"45,888",35 - 40K KM,Automatic
+Honda Civic,Honda,2023,"116,999",20 - 25K KM,Automatic
+BMW 320i,BMW,2024,"238,000",5 - 10K KM,Automatic
+BMW 528i,BMW,2017,"103,800",90 - 95K KM,Automatic
+Honda CR-V,Honda,2023,"142,999",30 - 35K KM,Automatic
+BMW X5,BMW,2020,"248,000",50 - 55K KM,Automatic
+Honda Accord,Honda,2017,"73,800",50 - 55K KM,Automatic
+BMW X5,BMW,2020,"248,000",50 - 55K KM,Automatic
+Honda Accord,Honda,2017,"73,800",50 - 55K KM,Automatic
+Honda City,Honda,2024,"76,999",5 - 10K KM,Automatic
+Proton Persona,Proton,2021,"34,888",40 - 45K KM,Automatic
+Proton Persona,Proton,2014,"14,900",70 - 75K KM,Automatic
+Honda Accord,Honda,2022,"138,999",60 - 65K KM,Automatic
+Proton Saga,Proton,2020,"24,888",45 - 50K KM,Automatic
+Proton X70,Proton,2022,"81,888",50 - 55K KM,Automatic
+BMW 330i,BMW,2022,"205,000",20 - 25K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2021,"173,888",40 - 45K KM,Automatic
+Ford Ranger,Ford,2023,"145,000",10 - 15K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2022,"265,000",10 - 15K KM,Automatic
+Proton Saga,Proton,2024,"28,888",20 - 25K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2019,"77,800",55 - 60K KM,Automatic
+Honda Accord,Honda,2013,"39,900",120 - 125K KM,Automatic
+Mazda 6,Mazda,2015,"43,888",50 - 55K KM,Automatic
+BMW 330e,BMW,2018,"90,000",55 - 60K KM,Automatic
+Mazda 6,Mazda,2015,"43,888",50 - 55K KM,Automatic
+BMW 330e,BMW,2018,"90,000",55 - 60K KM,Automatic
+BMW 530e,BMW,2022,"229,999",5 - 10K KM,Automatic
+BMW 530e,BMW,2019,"126,999",60 - 65K KM,Automatic
+Lexus NX300,Lexus,2019,"168,800",40 - 45K KM,Automatic
+Proton X70,Proton,2020,"64,900",50 - 55K KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",80 - 85K KM,Automatic
+Honda City,Honda,2022,"73,900",35 - 40K KM,Automatic
+Perodua AXIA,Perodua,2020,"32,400",55 - 60K KM,Automatic
+BMW 530i,BMW,2017,"129,999",80 - 85K KM,Automatic
+BMW X1,BMW,2020,"113,999",90 - 95K KM,Automatic
+BMW X5,BMW,2020,"243,999",45 - 50K KM,Automatic
+BMW X3,BMW,2019,"125,999",85 - 90K KM,Automatic
+BMW X3,BMW,2021,"189,999",35 - 40K KM,Automatic
+MINI Countryman,MINI,2023,"208,888",35 - 40K KM,Automatic
+Toyota Vios,Toyota,2017,"50,000",72593 KM,Automatic
+Subaru XV,Subaru,2018,"69,400",74678 KM,Automatic
+Perodua AXIA,Perodua,2019,"34,400",91237 KM,Automatic
+Nissan Serena,Nissan,2020,"96,900",49720 KM,Automatic
+Honda CR-V,Honda,2013,"40,400",158149 KM,Automatic
+Perodua Aruz,Perodua,2019,"54,000",54093 KM,Automatic
+Perodua Aruz,Perodua,2020,"56,000",53052 KM,Automatic
+Perodua Aruz,Perodua,2019,"54,000",54093 KM,Automatic
+Perodua Aruz,Perodua,2020,"56,000",53052 KM,Automatic
+Proton Saga,Proton,2020,"29,000",70187 KM,Automatic
+Honda CR-V,Honda,2019,"103,600",97517 KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2021,"236,000",38187 KM,Automatic
+Honda City,Honda,2017,"50,700",115883 KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2016,"129,000",68035 KM,Automatic
+Perodua Myvi,Perodua,2019,"45,800",65653 KM,Automatic
+Lamborghini Huracan,Lamborghini,2019,"1,350,000",10 - 15K KM,Automatic
+Perodua AXIA,Perodua,2017,"26,000",110 - 115K KM,Automatic
+Porsche Cayman,Porsche,2009/2012,"133,800",80 - 85K KM,Automatic
+BMW 528i,BMW,2017,"112,800",90 - 95K KM,Automatic
+Toyota Vellfire,Toyota,2009,"65,800",100 - 105K KM,Automatic
+Honda CR-V,Honda,2022,"103,800",30 - 35K KM,Automatic
+Toyota Alphard,Toyota,2018,"162,800",30 - 35K KM,Automatic
+Perodua Myvi,Perodua,2019,"45,800",80 - 85K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"247,000",55 - 60K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2022,"265,000",15 - 20K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"247,000",55 - 60K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2022,"265,000",15 - 20K KM,Automatic
+Toyota Innova,Toyota,2017,"70,000",60 - 65K KM,Automatic
+Mazda 3,Mazda,2019,"109,800",75 - 80K KM,Automatic
+Perodua Bezza,Perodua,2019,"36,200",95 - 100K KM,Automatic
+Honda City,Honda,2019,"61,900",50 - 55K KM,Automatic
+Honda Civic,Honda,2013,"33,900",65 - 70K KM,Automatic
+Toyota Corolla Altis,Toyota,2016,"55,800",85 - 90K KM,Automatic
+Toyota Vellfire,Toyota,2013,"91,900",85 - 90K KM,Automatic
+Honda Jazz,Honda,2016,"43,800",60 - 65K KM,Automatic
+Honda HR-V,Honda,2019,"72,800",60 - 65K KM,Automatic
+Toyota Harrier,Toyota,2014,"84,800",80 - 85K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2020,"84,800",70 - 75K KM,Automatic
+Proton Satria,Proton,2013/2014,"20,800",80 - 85K KM,Manual
+Mercedes-Benz C200,Mercedes-Benz,2019,"139,900",45 - 50K KM,Automatic
+BMW 320i,BMW,2016,"81,800",100 - 105K KM,Automatic
+Honda Civic,Honda,2019,"94,900",60 - 65K KM,Automatic
+Toyota Alphard,Toyota,2021,"229,900",15 - 20K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2019,"69,800",85 - 90K KM,Automatic
+Kia Sportage,Kia,2014,"28,800",95 - 100K KM,Automatic
+Honda BR-V,Honda,2017,"37,800",90 - 95K KM,Automatic
+BMW 320i,BMW,2016,"79,800",115 - 120K KM,Automatic
+Hyundai Sonata,Hyundai,2011,"19,800",95 - 100K KM,Automatic
+Honda Jazz,Honda,2020,"59,900",85 - 90K KM,Automatic
+BMW 320i,BMW,2016,"79,800",135 - 140K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2021,"95,800",65 - 70K KM,Automatic
+Nissan Almera,Nissan,2021,"39,888",45 - 50K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2020,"79,800",80 - 85K KM,Automatic
+Porsche 911,Porsche,2005,"198,000",85 - 90K KM,Manual
+Proton Exora,Proton,2014,"10,800",120 - 125K KM,Automatic
+Toyota Vios,Toyota,2012,"23,888",80 - 85K KM,Automatic
+Honda Jazz,Honda,2020,"65,800",75 - 80K KM,Automatic
+Honda Civic,Honda,2009,"26,888",170 - 175K KM,Automatic
+Toyota Camry,Toyota,2022,"175,900",25 - 30K KM,Automatic
+Proton Saga,Proton,2015,"10,888",85 - 90K KM,Manual
+Perodua Myvi,Perodua,2014,"25,500",160 - 165K KM,Automatic
+Toyota Camry,Toyota,2017,"87,900",120 - 125K KM,Automatic
+Toyota Camry,Toyota,2013,"46,800",120 - 125K KM,Automatic
+BMW 330e,BMW,2018,"69,800",90 - 95K KM,Automatic
+Mitsubishi ASX,Mitsubishi,2016,"36,888",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2014,"23,800",125 - 130K KM,Manual
+Honda City,Honda,2021,"58,800",70 - 75K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2022,"245,900",20 - 25K KM,Automatic
+Honda Civic,Honda,2020,"93,800",75 - 80K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2019,"139,900",45 - 50K KM,Automatic
+Honda City,Honda,2022,"61,800",15 - 20K KM,Automatic
+Proton X70,Proton,2019,"57,000",115 - 120K KM,Automatic
+Kia Sportage,Kia,2017,"50,800",85 - 90K KM,Automatic
+Mazda CX-5,Mazda,2021,"119,900",20 - 25K KM,Automatic
+Mazda 3,Mazda,2019,"86,900",90 - 95K KM,Automatic
+Mazda CX-5,Mazda,2018,"60,800",70 - 75K KM,Automatic
+Perodua Myvi,Perodua,2018,"34,800",40 - 45K KM,Automatic
+Nissan Almera,Nissan,2022,"60,888",30 - 35K KM,Automatic
+Perodua Bezza,Perodua,2018,"26,800",120 - 125K KM,Automatic
+Honda Civic,Honda,2020,"92,800",80 - 85K KM,Automatic
+Honda Civic,Honda,2013,"33,900",65 - 70K KM,Automatic
+Honda City,Honda,2019,"61,900",50 - 55K KM,Automatic
+MINI Countryman,MINI,2024,"228,888",0 - 5K KM,Automatic
+MINI Countryman,MINI,2023,"208,888",35 - 40K KM,Automatic
+Honda CR-V,Honda,2022,"132,900",25 - 30K KM,Automatic
+Honda City,Honda,2019,"56,900",90 - 95K KM,Automatic
+Honda City,Honda,2018,"49,900",70 - 75K KM,Automatic
+Proton Saga,Proton,2012,"8,900",80 - 85K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2018,"189,800",50 - 55K KM,Automatic
+Honda Jazz,Honda,2018,"53,900",65 - 70K KM,Automatic
+Perodua Myvi,Perodua,2013,"16,900",90 - 95K KM,Automatic
+Mazda CX-5,Mazda,2017/2018,"60,800",130 - 135K KM,Automatic
+Subaru XV,Subaru,2016,"37,800",80 - 85K KM,Automatic
+Nissan Serena,Nissan,2011/2012,"29,800",100 - 105K KM,Automatic
+Mazda CX-5,Mazda,2020,"100,000",50 - 55K KM,Automatic
+Perodua AXIA,Perodua,2017,"25,900",80 - 85K KM,Automatic
+Ford Ranger,Ford,2024,"116,000",10 - 15K KM,Automatic
+Perodua Myvi,Perodua,2013,"21,900",90 - 95K KM,Automatic
+Mazda 3,Mazda,2013,"19,800",100 - 105K KM,Automatic
+Mazda CX-5,Mazda,2022,"110,888",65 - 70K KM,Automatic
+Proton Saga,Proton,2009,"6,900",100 - 105K KM,Automatic
+Honda Accord,Honda,2014,"27,888",60 - 65K KM,Automatic
+Toyota Estima,Toyota,2016/2018,"126,800",120 - 125K KM,Automatic
+Toyota Hiace,Toyota,2011,"45,688",95 - 100K KM,Manual
+Toyota Hiace,Toyota,2015,"59,800",85 - 90K KM,Manual
+Honda CR-V,Honda,2017,"52,888",70 - 75K KM,Automatic
+Honda HR-V,Honda,2016,"49,900",85 - 90K KM,Automatic
+Toyota Hilux,Toyota,2020,"73,900",60 - 65K KM,Manual
+Honda Civic,Honda,2018,"78,888",80 - 85K KM,Automatic
+Ford Ranger,Ford,2020,"75,800",60 - 65K KM,Automatic
+Toyota Hilux,Toyota,2024,"89,900",10 - 15K KM,Manual
+Honda City,Honda,2022,"71,900",20 - 25K KM,Automatic
+Mercedes-Benz A180,Mercedes-Benz,2016,"89,800",65 - 70K KM,Automatic
+Toyota Land Cruiser Prado,Toyota,2020,"225,800",40 - 45K KM,Automatic
+Perodua Myvi,Perodua,2012,"19,800",75 - 80K KM,Automatic
+Toyota Wish,Toyota,2013,"49,800",120 - 125K KM,Automatic
+Toyota Vios,Toyota,2019,"59,800",65 - 70K KM,Automatic
+Toyota Vios,Toyota,2018,"50,000",40 - 45K KM,Automatic
+Toyota Vellfire,Toyota,2017,"186,800",80 - 85K KM,Automatic
+Toyota Estima,Toyota,2014,"85,800",105 - 110K KM,Automatic
+Toyota Vellfire,Toyota,2014,"99,800",80 - 85K KM,Automatic
+Porsche Macan,Porsche,2015,"158,800",90 - 95K KM,Automatic
+Nissan Almera,Nissan,2022,"63,800",50 - 55K KM,Automatic
+Toyota Innova,Toyota,2017,"70,000",60 - 65K KM,Automatic
+Nissan Grand Livina,Nissan,2013,"19,800",85 - 90K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2022,"276,800",25 - 30K KM,Automatic
+Honda City,Honda,2023,"75,800",15 - 20K KM,Automatic
+Perodua Alza,Perodua,2016,"35,800",80 - 85K KM,Automatic
+Honda HR-V,Honda,2019,"65,800",85 - 90K KM,Automatic
+Toyota Vellfire,Toyota,2014,"99,800",60 - 65K KM,Automatic
+Nissan Almera,Nissan,2016,"22,800",75 - 80K KM,Automatic
+Honda HR-V,Honda,2018,"69,800",55 - 60K KM,Automatic
+Toyota Harrier,Toyota,2019,"129,800",85 - 90K KM,Automatic
+Honda Accord,Honda,2010,"25,800",120 - 125K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2014,"63,800",100 - 105K KM,Automatic
+Honda CR-V,Honda,2021,"119,800",50 - 55K KM,Automatic
+Proton Iriz,Proton,2016,"16,800",80 - 85K KM,Automatic
+Mercedes-Benz GLA200,Mercedes-Benz,2017,"116,800",65 - 70K KM,Automatic
+Perodua Alza,Perodua,2018,"46,800",60 - 65K KM,Automatic
+Toyota Wish,Toyota,2010,"43,800",80 - 85K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2013/2014,"62,999",110 - 115K KM,Automatic
+Proton Exora,Proton,2014,"19,800",70 - 75K KM,Automatic
+Honda Accord,Honda,2018,"78,800",70 - 75K KM,Automatic
+BMW X1,BMW,2021,"135,900",15 - 20K KM,Automatic
+Toyota Hilux,Toyota,2023,"82,900",10 - 15K KM,Manual
+Toyota Hilux,Toyota,2021,"76,900",60 - 65K KM,Manual
+Toyota Camry,Toyota,2018,"119,999",95 - 100K KM,Automatic
+Nissan X-Trail,Nissan,2019,"52,500",60 - 65K KM,Automatic
+Honda Jazz,Honda,2015,"40,888",60 - 65K KM,Automatic
+Volkswagen Polo,Volkswagen,2014,"12,800",115 - 120K KM,Automatic
+Perodua Myvi,Perodua,2013,"17,888",110 - 115K KM,Automatic
+Perodua Alza,Perodua,2014,"29,900",90 - 95K KM,Automatic
+Mazda 2,Mazda,2021,"58,800",75 - 80K KM,Automatic
+Perodua Myvi,Perodua,2019,"39,888",60 - 65K KM,Automatic
+Toyota Corolla Altis,Toyota,2014,"43,800",105 - 110K KM,Automatic
+Peugeot 508,Peugeot,2017,"31,800",75 - 80K KM,Automatic
+BMW X1,BMW,2018,"62,888",50 - 55K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2020,"299,800",50 - 55K KM,Automatic
+Honda HR-V,Honda,2016,"42,900",125 - 130K KM,Automatic
+BMW 325i,BMW,2006,"18,800",70 - 75K KM,Automatic
+Honda Civic,Honda,2015,"31,888",65 - 70K KM,Automatic
+Proton Exora,Proton,2015,"22,800",115 - 120K KM,Automatic
+BMW 320i,BMW,2016,"92,800",85 - 90K KM,Automatic
+Honda Odyssey,Honda,2015,"83,800",75 - 80K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2020,"209,800",30 - 35K KM,Automatic
+Nissan Navara,Nissan,2018,"66,800",80 - 85K KM,Automatic
+Honda Accord,Honda,2019,"99,800",60 - 65K KM,Automatic
+Perodua Myvi,Perodua,2016,"25,800",70 - 75K KM,Automatic
+Hyundai Grand Starex,Hyundai,2018,"109,800",60 - 65K KM,Automatic
+Perodua Alza,Perodua,2012,"19,800",90 - 95K KM,Automatic
+Toyota Alphard,Toyota,2018,"186,800",85 - 90K KM,Automatic
+Toyota Estima,Toyota,2016,"139,800",70 - 75K KM,Automatic
+Toyota Innova,Toyota,2016,"59,800",70 - 75K KM,Automatic
+Mercedes-Benz A180,Mercedes-Benz,2017,"109,800",90 - 95K KM,Automatic
+Honda City,Honda,2023,"89,800",10 - 15K KM,Automatic
+Perodua Alza,Perodua,2014,"23,888",95 - 100K KM,Automatic
+BMW 530i,BMW,2019,"179,800",70 - 75K KM,Automatic
+BMW 118i,BMW,2016,"59,800",115 - 120K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2018,"219,800",85 - 90K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2021,"299,800",50 - 55K KM,Automatic
+Honda HR-V,Honda,2019,"69,800",80 - 85K KM,Automatic
+BMW 630i,BMW,2019,"169,800",75 - 80K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2020,"145,800",50 - 55K KM,Automatic
+Toyota Land Cruiser Prado,Toyota,2014,"125,800",60 - 65K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2022,"278,800",40 - 45K KM,Automatic
+Honda Accord,Honda,2010,"25,800",80 - 85K KM,Automatic
+BMW 530i,BMW,2022,"259,800",50 - 55K KM,Automatic
+Toyota Wish,Toyota,2011,"43,800",85 - 90K KM,Automatic
+Mazda CX-5,Mazda,2022,"129,800",50 - 55K KM,Automatic
+Toyota Corolla Altis,Toyota,2011,"28,800",85 - 90K KM,Automatic
+Mercedes-Benz CLA200,Mercedes-Benz,2017,"119,800",70 - 75K KM,Automatic
+Toyota Land Cruiser,Toyota,2013,"149,800",105 - 110K KM,Automatic
+Lexus RX350,Lexus,2016,"158,000",80 - 85K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2021,"229,800",60 - 65K KM,Automatic
+MINI Countryman,MINI,2021,"146,999",70 - 75K KM,Automatic
+Honda Accord,Honda,2015,"40,888",110 - 115K KM,Automatic
+Honda City,Honda,2015,"31,888",65 - 70K KM,Automatic
+Honda CR-V,Honda,2019,"106,800",80 - 85K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2015,"75,800",80 - 85K KM,Automatic
+Nissan Serena,Nissan,2019,"89,800",50 - 55K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"183,800",60 - 65K KM,Automatic
+Honda Accord,Honda,2018,"99,800",55 - 60K KM,Automatic
+Honda Accord,Honda,2014,"41,800",65 - 70K KM,Automatic
+Honda Accord,Honda,2014,"49,800",110 - 115K KM,Automatic
+Honda HR-V,Honda,2015,"49,800",80 - 85K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2016,"156,800",50 - 55K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2016,"116,800",70 - 75K KM,Automatic
+Proton Persona,Proton,2019,"28,800",70 - 75K KM,Automatic
+Toyota Camry,Toyota,2023,"179,800",30 - 35K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2012,"46,800",125 - 130K KM,Automatic
+Toyota Corolla Altis,Toyota,2016,"59,800",70 - 75K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2015/2016,"79,800",80 - 85K KM,Automatic
+Nissan Serena,Nissan,2019,"99,800",50 - 55K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2018,"149,800",70 - 75K KM,Automatic
+Honda HR-V,Honda,2019,"79,800",60 - 65K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2014,"79,800",85 - 90K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2017/2021,"179,800",40 - 45K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2016,"146,800",75 - 80K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2017,"129,800",75 - 80K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2018,"179,800",60 - 65K KM,Automatic
+Toyota Vellfire,Toyota,2013,"79,800",80 - 85K KM,Automatic
+BMW X3,BMW,2019,"129,800",60 - 65K KM,Automatic
+Toyota Camry,Toyota,2020,"149,800",60 - 65K KM,Automatic
+BMW 530i,BMW,2019,"185,800",60 - 65K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2016,"89,800",95 - 100K KM,Automatic
+BMW X1,BMW,2016,"55,800",75 - 80K KM,Automatic
+Honda CR-V,Honda,2019,"89,800",75 - 80K KM,Automatic
+Toyota Alphard,Toyota,2019,"188,000",80 - 85K KM,Automatic
+BMW 120i,BMW,2017,"64,888",55 - 60K KM,Automatic
+Nissan Serena,Nissan,2019,"77,999",70 - 75K KM,Automatic
+Honda City,Honda,2019,"65,800",85 - 90K KM,Automatic
+Perodua Alza,Perodua,2014,"31,800",90 - 95K KM,Automatic
+Toyota Alphard,Toyota,2015,"149,999",80 - 85K KM,Automatic
+Toyota Alphard,Toyota,2016,"158,999",80 - 85K KM,Automatic
+Honda Civic,Honda,2019,"88,000",75 - 80K KM,Automatic
+Perodua Myvi,Perodua,2018,"41,800",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2020,"45,900",40 - 45K KM,Automatic
+Proton Preve,Proton,2015,"20,000",105 - 110K KM,Automatic
+Proton Preve,Proton,2015,"19,100",120 - 125K KM,Automatic
+Honda Accord,Honda,2021,"121,400",50452 KM,Automatic
+Perodua Myvi,Perodua,2017,"36,000",127045 KM,Automatic
+Perodua Bezza,Perodua,2016,"32,800",120 - 125K KM,Automatic
+Perodua Myvi,Perodua,2014,"27,900",97860 KM,Automatic
+Honda HR-V,Honda,2016,"57,000",97280 KM,Automatic
+Honda Jazz,Honda,2016,"50,000",136481 KM,Automatic
+Perodua Myvi,Perodua,2018,"43,400",109814 KM,Automatic
+Honda HR-V,Honda,2016,"47,500",128909 KM,Automatic
+Perodua Bezza,Perodua,2018,"34,000",102556 KM,Automatic
+Mazda 3,Mazda,2019,"95,000",78004 KM,Automatic
+Perodua Myvi,Perodua,2020,"47,000",80843 KM,Automatic
+Proton Iriz,Proton,2019,"35,900",39809 KM,Automatic
+Mazda CX-5,Mazda,2018,"91,000",107210 KM,Automatic
+Kia Grand Carnival,Kia,2020,"107,000",100 - 105K KM,Automatic
+Proton Saga,Proton,2018,"23,700",99973 KM,Automatic
+Nissan Navara,Nissan,2015,"35,800",90 - 95K KM,Automatic
+BMW 330e,BMW,2021,"213,800",5 - 10K KM,Automatic
+Honda Accord,Honda,2020,"117,800",75 - 80K KM,Automatic
+Toyota Rush,Toyota,2021,"68,800",55 - 60K KM,Automatic
+Honda CR-V,Honda,2018,"75,800",95 - 100K KM,Automatic
+Honda Jazz,Honda,2015,"46,800",45 - 50K KM,Automatic
+Honda City,Honda,2018,"54,800",80 - 85K KM,Automatic
+Mazda CX-3,Mazda,2022,"99,800",25 - 30K KM,Automatic
+Mazda 2,Mazda,2015,"34,800",70 - 75K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2019,"135,800",65 - 70K KM,Automatic
+Honda Civic,Honda,2018,"76,800",100 - 105K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2016,"118,800",100 - 105K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2018,"123,800",70 - 75K KM,Automatic
+Honda City,Honda,2014,"35,800",110 - 115K KM,Automatic
+Honda City,Honda,2022,"72,800",55 - 60K KM,Automatic
+BMW X3,BMW,2018,"113,800",65 - 70K KM,Automatic
+BMW 530i,BMW,2022,"269,800",35 - 40K KM,Automatic
+Toyota Corolla Altis,Toyota,2004,"14,800",140 - 145K KM,Automatic
+Toyota Hilux,Toyota,2011/2012,"42,800",155 - 160K KM,Manual
+Volvo XC60,Volvo,2019,"148,800",75 - 80K KM,Automatic
+Isuzu D-Max,Isuzu,2015,"45,800",105 - 110K KM,Automatic
+Toyota Camry,Toyota,2019,"126,999",80 - 85K KM,Automatic
+BMW X4,BMW,2020,"185,800",145 - 150K KM,Automatic
+Mercedes-Benz C350 e,Mercedes-Benz,2018,"97,800",50 - 55K KM,Automatic
+Honda Civic,Honda,2013,"29,800",95 - 100K KM,Automatic
+BMW 420i,BMW,2016,"99,800",85 - 90K KM,Automatic
+Volvo S60,Volvo,2020,"146,800",60 - 65K KM,Automatic
+Toyota Hilux,Toyota,2016,"72,500",95 - 100K KM,Automatic
+Nissan Sylphy,Nissan,2012,"18,800",140 - 145K KM,Automatic
+Perodua Aruz,Perodua,2019,"45,000",75 - 80K KM,Automatic
+Toyota Hiace,Toyota,2015,"85,500",65 - 70K KM,Manual
+Perodua Myvi,Perodua,2018,"42,000",80 - 85K KM,Automatic
+Nissan Grand Livina,Nissan,2014,"32,800",105 - 110K KM,Automatic
+MINI Countryman,MINI,2021,"145,800",85 - 90K KM,Automatic
+MINI Countryman,MINI,2021,"185,000",35 - 40K KM,Automatic
+Toyota Harrier,Toyota,2004,"33,066",105 - 110K KM,Automatic
+Honda HR-V,Honda,2015,"46,800",95 - 100K KM,Automatic
+Subaru XV,Subaru,2016,"60,000",70 - 75K KM,Automatic
+BMW X5,BMW,2020,"248,000",50 - 55K KM,Automatic
+Proton Saga,Proton,2018,"23,688",80 - 85K KM,Automatic
+BMW 530i,BMW,2017,"145,000",70 - 75K KM,Automatic
+BMW 320i,BMW,2020,"148,000",55 - 60K KM,Automatic
+Honda HR-V,Honda,2019,"60,800",80 - 85K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2018,"142,800",105 - 110K KM,Automatic
+Perodua AXIA,Perodua,2016,"21,600",45 - 50K KM,Automatic
+BMW 330i,BMW,2022,"175,800",30 - 35K KM,Automatic
+Toyota Avanza,Toyota,2013,"29,800",110 - 115K KM,Automatic
+Toyota Vellfire,Toyota,2019,"177,800",75 - 80K KM,Automatic
+Perodua AXIA,Perodua,2015,"23,500",55 - 60K KM,Automatic
+BMW Z4,BMW,2019,"283,800",35 - 40K KM,Automatic
+Nissan Navara,Nissan,2019,"54,800",70 - 75K KM,Automatic
+Honda CR-V,Honda,2022,"113,800",70 - 75K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2018,"139,000",35 - 40K KM,Automatic
+Perodua Alza,Perodua,2015,"26,600",55 - 60K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2017,"113,000",55 - 60K KM,Automatic
+Toyota Alphard,Toyota,2016/2020,"169,800",90 - 95K KM,Automatic
+Perodua AXIA,Perodua,2016,"20,800",70 - 75K KM,Automatic
+Honda City,Honda,2011,"25,800",110 - 115K KM,Automatic
+Perodua Myvi,Perodua,2019,"39,800",40 - 45K KM,Automatic
+Honda Civic,Honda,2018,"73,800",90 - 95K KM,Automatic
+Perodua Alza,Perodua,2014,"21,600",70 - 75K KM,Automatic
+Toyota Alphard,Toyota,2006,"31,800",110 - 115K KM,Automatic
+BMW 330e,BMW,2018,"70,000",90 - 95K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2022,"266,000",15 - 20K KM,Automatic
+Perodua Myvi,Perodua,2015/2017,"31,800",70 - 75K KM,Automatic
+Toyota Hilux,Toyota,2011,"39,000",80 - 85K KM,Automatic
+Toyota Camry,Toyota,2012,"38,800",80 - 85K KM,Automatic
+Mercedes-Benz E350 e,Mercedes-Benz,2017,"110,800",85 - 90K KM,Automatic
+Honda HR-V,Honda,2015,"36,000",240 - 245K KM,Automatic
+Nissan Sentra,Nissan,2004,"9,500",175 - 180K KM,Automatic
+Toyota Harrier,Toyota,2015/2019,"88,800",105 - 110K KM,Automatic
+Toyota Vellfire,Toyota,2019/2022,"173,800",60 - 65K KM,Automatic
+BMW 528i,BMW,2014,"62,800",90 - 95K KM,Automatic
+BMW X1,BMW,2018,"76,800",60 - 65K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2017,"226,000",35 - 40K KM,Automatic
+Isuzu D-Max,Isuzu,2016/2017,"51,800",125 - 130K KM,Automatic
+Toyota Vellfire,Toyota,2023,"188,800",40 - 45K KM,Automatic
+Toyota Hilux,Toyota,2020,"93,800",120 - 125K KM,Automatic
+Ford Ranger,Ford,2019,"69,800",115 - 120K KM,Automatic
+Honda CR-V,Honda,2018,"89,800",80 - 85K KM,Automatic
+Nissan X-Trail,Nissan,2015,"41,800",130 - 135K KM,Automatic
+Honda BR-V,Honda,2017,"44,888",70 - 75K KM,Automatic
+BMW X3,BMW,2016,"83,000",40 - 45K KM,Automatic
+Lexus NX200t,Lexus,2015,"118,000",115 - 120K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2013/2014,"23,800",110 - 115K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2019,"69,800",80 - 85K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2014,"31,800",125 - 130K KM,Automatic
+Perodua Bezza,Perodua,2018,"30,888",60 - 65K KM,Automatic
+Toyota Vios,Toyota,2012,"26,800",150 - 155K KM,Automatic
+Mazda 2,Mazda,2017,"40,888",70 - 75K KM,Automatic
+Honda CR-Z,Honda,2013,"36,800",125 - 130K KM,Automatic
+BMW 530i,BMW,2022,"279,000",35 - 40K KM,Automatic
+BMW 530e,BMW,2018,"96,000",75 - 80K KM,Automatic
+Subaru Forester,Subaru,2016/2017,"47,800",80 - 85K KM,Automatic
+Honda CR-V,Honda,2021,"103,800",70 - 75K KM,Automatic
+Honda HR-V,Honda,2019,"79,800",105 - 110K KM,Automatic
+Honda Civic,Honda,2018,"66,300",60 - 65K KM,Automatic
+Hyundai Tucson,Hyundai,2016,"49,800",80 - 85K KM,Automatic
+Proton X70,Proton,2019,"53,800",120 - 125K KM,Automatic
+Honda CR-V,Honda,2002,"13,800",185 - 190K KM,Automatic
+BMW 320i,BMW,2020,"143,800",85 - 90K KM,Automatic
+Proton X70,Proton,2020,"68,800",65 - 70K KM,Automatic
+Perodua Myvi,Perodua,2016,"25,800",95 - 100K KM,Automatic
+BMW 320i,BMW,2021,"152,800",55 - 60K KM,Automatic
+Toyota Vios,Toyota,2020,"57,999",65 - 70K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2019,"158,800",85 - 90K KM,Automatic
+Land Rover Range Rover Evoque,Land,2012/2013,"59,800",155 - 160K KM,Automatic
+Honda City,Honda,2014,"28,700",165 - 170K KM,Automatic
+Perodua AXIA,Perodua,2018,"32,400",105 - 110K KM,Automatic
+Toyota Vios,Toyota,2010,"25,800",105 - 110K KM,Automatic
+Perodua Myvi,Perodua,2019,"46,000",98993 KM,Automatic
+Perodua Bezza,Perodua,2016,"33,000",156608 KM,Automatic
+Perodua Myvi,Perodua,2016,"34,000",116618 KM,Automatic
+Toyota Harrier,Toyota,2007,"24,000",200 - 205K KM,Automatic
+Volkswagen Polo,Volkswagen,2018,"34,600",105 - 110K KM,Automatic
+Perodua Myvi,Perodua,2016,"34,800",79174 KM,Automatic
+Honda Civic,Honda,2018,"82,000",105 - 110K KM,Automatic
+Ford Ranger,Ford,2021,"65,000",70 - 75K KM,Automatic
+Toyota Vios,Toyota,2016,"50,300",115 - 120K KM,Automatic
+Toyota Hilux,Toyota,2012,"45,800",155 - 160K KM,Automatic
+Isuzu D-Max,Isuzu,2013/2014,"46,800",125 - 130K KM,Automatic
+Land Rover Range Rover Evoque,Land,2012,"59,800",110 - 115K KM,Automatic
+BMW X3,BMW,2021,"199,800",35 - 40K KM,Automatic
+BMW 530i,BMW,2021,"268,000",25 - 30K KM,Automatic
+BMW X1,BMW,2020,"125,000",70 - 75K KM,Automatic
+BMW 530i,BMW,2017/2018,"133,800",90 - 95K KM,Automatic
+BMW X1,BMW,2020,"125,000",75 - 80K KM,Automatic
+BMW X3,BMW,2021,"199,800",30 - 35K KM,Automatic
+Lexus ES250,Lexus,2020,"209,800",20 - 25K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2016,"120,000",95 - 100K KM,Automatic
+Honda Civic,Honda,2013,"29,800",120 - 125K KM,Automatic
+Honda City,Honda,2015,"39,800",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2014,"19,200",55 - 60K KM,Automatic
+Ford Ranger,Ford,2023,"117,000",5 - 10K KM,Automatic
+Mazda CX-5,Mazda,2013,"35,800",135 - 140K KM,Automatic
+Suzuki Swift,Suzuki,2012,"18,800",120 - 125K KM,Automatic
+Honda HR-V,Honda,2015,"43,800",105 - 110K KM,Automatic
+BMW X1,BMW,2013,"33,800",85 - 90K KM,Automatic
+Honda HR-V,Honda,2015,"41,800",100 - 105K KM,Automatic
+Honda CR-V,Honda,2015,"51,800",95 - 100K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019,"155,800",60 - 65K KM,Automatic
+Honda City,Honda,2018,"51,300",60 - 65K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2016,"120,000",95 - 100K KM,Automatic
+Toyota Vellfire,Toyota,2012/2014,"72,800",100 - 105K KM,Automatic
+BMW 330i,BMW,2020,"178,000",45 - 50K KM,Automatic
+Toyota Vellfire,Toyota,2010/2014,"62,800",100 - 105K KM,Automatic
+Perodua AXIA,Perodua,2016,"20,800",95 - 100K KM,Automatic
+Toyota Vellfire,Toyota,2009,"69,800",100 - 105K KM,Automatic
+Toyota Avanza,Toyota,2018,"54,800",105 - 110K KM,Automatic
+Toyota Vellfire,Toyota,2017,"148,800",45 - 50K KM,Automatic
+Hyundai Grand Starex,Hyundai,2019,"113,875",70 - 75K KM,Automatic
+Toyota Vios,Toyota,2007,"20,800",135 - 140K KM,Automatic
+Perodua Myvi,Perodua,2012,"16,500",75 - 80K KM,Automatic
+Rolls-Royce Ghost,Rolls-Royce,2015,"800,000",50 - 55K KM,Automatic
+Hyundai Grand Starex,Hyundai,2017,"80,875",105 - 110K KM,Automatic
+Honda Civic,Honda,2019,"89,800",55 - 60K KM,Automatic
+Perodua Myvi,Perodua,2019,"40,800",80 - 85K KM,Automatic
+Toyota Alphard,Toyota,2014/2016,"105,000",70 - 75K KM,Automatic
+Toyota Estima,Toyota,2011/2016,"57,800",100 - 105K KM,Automatic
+Mazda CX-5,Mazda,2020,"116,000",60 - 65K KM,Automatic
+Toyota Avanza,Toyota,2013,"28,800",130 - 135K KM,Automatic
+Toyota Estima,Toyota,2014,"78,800",115 - 120K KM,Automatic
+Honda CR-V,Honda,2023,"142,000",30 - 35K KM,Automatic
+Hyundai Grand Starex,Hyundai,2016,"87,875",85 - 90K KM,Automatic
+Kia Cerato,Kia,2016,"34,800",90 - 95K KM,Automatic
+BMW 320i,BMW,2014,"52,800",120 - 125K KM,Automatic
+BMW 320i,BMW,2015,"74,800",130 - 135K KM,Automatic
+Honda CR-V,Honda,2016,"59,000",153117 KM,Automatic
+Perodua Aruz,Perodua,2019,"54,000",70 - 75K KM,Automatic
+BMW X3,BMW,2018/2019,"133,000",70 - 75K KM,Automatic
+Mazda 6,Mazda,2014,"38,800",201368 KM,Automatic
+Kia Optima K5,Kia,2012,"19,800",150 - 155K KM,Automatic
+Hyundai Grand Starex,Hyundai,2015,"63,875",90 - 95K KM,Automatic
+Toyota Alphard,Toyota,2004,"29,800",239015 KM,Automatic
+Audi Q5,Audi,2012,"23,800",115 - 120K KM,Automatic
+Kia Sportage,Kia,2014,"23,800",110 - 115K KM,Automatic
+Hyundai Grand Starex,Hyundai,2015,"62,875",120 - 125K KM,Automatic
+Volvo XC90,Volvo,2024,"360,800",5 - 10K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2019,"260,000",90 - 95K KM,Automatic
+Toyota Land Cruiser,Toyota,2014,"139,800",80 - 85K KM,Automatic
+Porsche Macan,Porsche,2020,"350,000",20 - 25K KM,Automatic
+BMW X5,BMW,2021,"265,000",60 - 65K KM,Automatic
+Volkswagen Golf,Volkswagen,2023,"129,800",25 - 30K KM,Automatic
+Proton Iriz,Proton,2016,"17,800",75 - 80K KM,Automatic
+BMW 323i,BMW,2011,"21,800",85 - 90K KM,Automatic
+Perodua Bezza,Perodua,2023,"38,888",15 - 20K KM,Automatic
+BMW 530i,BMW,2022,"258,900",40 - 45K KM,Automatic
+Perodua Bezza,Perodua,2023,"38,888",15 - 20K KM,Automatic
+BMW 330i,BMW,2024,"258,800",5 - 10K KM,Automatic
+Land Rover Range Rover Sport,Land,2015,"228,000",90 - 95K KM,Automatic
+Toyota Vios,Toyota,2020,"60,800",80 - 85K KM,Automatic
+BMW X4,BMW,2023,"318,000",25 - 30K KM,Automatic
+Rolls-Royce Ghost,Rolls-Royce,2018,"1,630,000",15 - 20K KM,Automatic
+Mercedes-Benz A180,Mercedes-Benz,2017/2020,"99,800",105 - 110K KM,Automatic
+BMW X4,BMW,2014,"75,800",130 - 135K KM,Automatic
+Proton Saga,Proton,2023,"37,500",4346 KM,Automatic
+Toyota Corolla Altis,Toyota,2021,"106,900",14873 KM,Automatic
+Toyota Yaris,Toyota,2022,"74,400",30367 KM,Automatic
+MINI Countryman,MINI,2022,"202,000",41000 KM,Automatic
+Perodua Aruz,Perodua,2023,"66,500",20 - 25K KM,Automatic
+Perodua Myvi,Perodua,2018,"43,000",116720 KM,Automatic
+Proton Suprima S,Proton,2014,"22,900",75901 KM,Automatic
+Toyota Wish,Toyota,2009,"43,000",135142 KM,Automatic
+Proton X70,Proton,2020,"71,900",50509 KM,Automatic
+Renault Captur,Renault,2019,"42,000",53483 KM,Automatic
+Honda Civic,Honda,2007,"29,800",165 - 170K KM,Automatic
+Perodua Myvi,Perodua,2012,"14,500",200 - 205K KM,Automatic
+Toyota Prius,Toyota,2012,"28,000",95 - 100K KM,Automatic
+Perodua Bezza,Perodua,2017,"35,000",78419 KM,Automatic
+Perodua Myvi,Perodua,2017,"36,600",118395 KM,Automatic
+Perodua Myvi,Perodua,2019,"45,800",69260 KM,Automatic
+Suzuki Jimny,Suzuki,1996,"38,500",45 - 50K KM,Manual
+Honda Jazz,Honda,2017,"52,800",115774 KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",99007 KM,Automatic
+Perodua Myvi,Perodua,2020,"38,800",64186 KM,Automatic
+Honda Civic,Honda,2016,"75,300",122867 KM,Automatic
+BMW 530e,BMW,2018,"96,000",78000 KM,Automatic
+BMW X4,BMW,2019,"203,000",60 - 65K KM,Automatic
+BMW X3,BMW,2024,"313,000",5 - 10K KM,Automatic
+BMW 330i,BMW,2019,"165,000",50 - 55K KM,Automatic
+Volvo S60,Volvo,2023,"230,888",5 - 10K KM,Automatic
+Mazda 2,Mazda,2015,"37,800",140 - 145K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"169,800",85 - 90K KM,Automatic
+BMW X5,BMW,2021,"275,000",40 - 45K KM,Automatic
+Toyota Sienta,Toyota,2016,"52,800",65 - 70K KM,Automatic
+Proton Persona,Proton,2017,"30,800",85 - 90K KM,Automatic
+Honda City,Honda,2018,"55,800",110 - 115K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2021,"209,800",70 - 75K KM,Automatic
+Perodua Alza,Perodua,2015,"35,800",100 - 105K KM,Automatic
+Nissan Almera,Nissan,2015,"35,800",80 - 85K KM,Automatic
+Perodua Bezza,Perodua,2017,"34,800",90 - 95K KM,Automatic
+Honda CR-V,Honda,2016,"66,800",95 - 100K KM,Automatic
+Proton Iriz,Proton,2016,"21,800",85 - 90K KM,Automatic
+Nissan Grand Livina,Nissan,2015,"39,800",95 - 100K KM,Automatic
+Toyota Alphard,Toyota,2006/2010,"26,500",100 - 105K KM,Automatic
+Honda Accord,Honda,2004,"8,900",190 - 195K KM,Automatic
+Toyota Alphard,Toyota,2004/2009,"29,900",155 - 160K KM,Automatic
+Proton Exora,Proton,2015,"30,800",95 - 100K KM,Automatic
+Honda BR-V,Honda,2017,"52,800",90 - 95K KM,Automatic
+Honda City,Honda,2013,"33,800",100 - 105K KM,Automatic
+BMW 325i,BMW,2006,"22,800",155 - 160K KM,Automatic
+Hyundai Grand Starex,Hyundai,2020,"139,000",45 - 50K KM,Automatic
+Hyundai Grand Starex,Hyundai,2011/2022,"190,000",5 - 10K KM,Automatic
+Hyundai Grand Starex,Hyundai,2021,"175,800",20 - 25K KM,Automatic
+BMW X1,BMW,2018,"82,000",65 - 70K KM,Automatic
+Proton Perdana,Proton,2019,"49,000",55 - 60K KM,Automatic
+Hyundai Tucson,Hyundai,2019,"65,000",70 - 75K KM,Automatic
+Hyundai Grand Starex,Hyundai,2019,"159,800",70 - 75K KM,Automatic
+Nissan X-Trail,Nissan,2015,"52,800",90 - 95K KM,Automatic
+Volvo XC90,Volvo,2022,"299,000",15 - 20K KM,Automatic
+BMW X4,BMW,2016,"109,000",55 - 60K KM,Automatic
+Volkswagen Golf,Volkswagen,2012,"25,000",95 - 100K KM,Automatic
+Mitsubishi ASX,Mitsubishi,2017,"47,000",70 - 75K KM,Automatic
+Honda Civic,Honda,2019,"82,800",95 - 100K KM,Automatic
+BMW X3,BMW,2018,"140,800",60 - 65K KM,Automatic
+Mercedes-Benz B200,Mercedes-Benz,2016,"59,000",60 - 65K KM,Automatic
+BMW X3,BMW,2015,"68,000",85 - 90K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2012,"23,800",135 - 140K KM,Automatic
+Hyundai Grand Starex,Hyundai,2018,"109,000",70 - 75K KM,Automatic
+Mitsubishi Outlander,Mitsubishi,2020,"89,800",35 - 40K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2017,"109,000",50 - 55K KM,Automatic
+BMW X5,BMW,2020,"255,000",20 - 25K KM,Automatic
+BMW X1,BMW,2019,"100,000",60 - 65K KM,Automatic
+Hyundai Grand Starex,Hyundai,2020,"145,800",70 - 75K KM,Automatic
+Volvo XC60,Volvo,2020,"169,000",45 - 50K KM,Automatic
+BMW X3,BMW,2018,"140,000",60 - 65K KM,Automatic
+Mercedes-Benz CLA200,Mercedes-Benz,2017,"108,000",60 - 65K KM,Automatic
+BMW X1,BMW,2019,"110,000",40 - 45K KM,Automatic
+Toyota Alphard,Toyota,2017,"159,800",100 - 105K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2015/2016,"95,800",85 - 90K KM,Automatic
+Mercedes-Benz CLA200,Mercedes-Benz,2017,"122,000",50 - 55K KM,Automatic
+BMW X5,BMW,2018,"110,000",60 - 65K KM,Automatic
+BMW 330e,BMW,2019,"92,800",55 - 60K KM,Automatic
+BMW 320i,BMW,2016,"76,800",85 - 90K KM,Automatic
+BMW 520i,BMW,2016,"64,800",80 - 85K KM,Automatic
+BMW 320i,BMW,2017,"86,800",75 - 80K KM,Automatic
+BMW 530e,BMW,2019,"109,800",55 - 60K KM,Automatic
+Toyota Vios,Toyota,2017,"56,800",40 - 45K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2014,"72,800",90 - 95K KM,Automatic
+Mercedes-Benz C180,Mercedes-Benz,2016,"87,800",85 - 90K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2015,"96,800",85 - 90K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019,"166,800",70 - 75K KM,Automatic
+Perodua Myvi,Perodua,2014,"19,800",100 - 105K KM,Manual
+Mercedes-Benz C180,Mercedes-Benz,2017,"94,800",75 - 80K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2015,"88,600",95 - 100K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2020,"176,800",45 - 50K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2018,"159,800",65 - 70K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2018,"109,800",65 - 70K KM,Automatic
+Honda City,Honda,2015,"46,800",95 - 100K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2020,"148,800",45 - 50K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2015,"83,800",95 - 100K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2018,"134,800",65 - 70K KM,Automatic
+Perodua AXIA,Perodua,2018,"33,800",60 - 65K KM,Automatic
+Honda BR-V,Honda,2017,"55,800",90 - 95K KM,Automatic
+Honda Accord,Honda,2015,"58,800",95 - 100K KM,Automatic
+Ford Ranger,Ford,2024,"116,000",10 - 15K KM,Automatic
+Ford Ranger,Ford,2015,"52,800",100 - 105K KM,Automatic
+Honda City,Honda,2017,"57,800",50 - 55K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2018,"138,800",70 - 75K KM,Automatic
+Toyota Land Cruiser,Toyota,2009/2013,"89,800",160 - 165K KM,Automatic
+Volvo XC60,Volvo,2021,"216,500",50 - 55K KM,Automatic
+Mazda CX-5,Mazda,2016,"45,800",155 - 160K KM,Automatic
+Honda CR-V,Honda,2018,"76,500",60 - 65K KM,Automatic
+BMW 730Li,BMW,2012,"43,900",95 - 100K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2020,"303,888",5 - 10K KM,Automatic
+BMW X3,BMW,2024,"290,000",14000 KM,Automatic
+Hyundai Grand Starex,Hyundai,2014,"59,875",90 - 95K KM,Automatic
+Honda Civic,Honda,2017,"82,800",135 - 140K KM,Automatic
+Mazda CX-5,Mazda,2021,"105,800",60 - 65K KM,Automatic
+Hyundai Grand Starex,Hyundai,2012,"44,875",120 - 125K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2014,"78,800",90 - 95K KM,Automatic
+BMW 330e,BMW,2019,"92,800",55 - 60K KM,Automatic
+Perodua Alza,Perodua,2022,"72,988",10 - 15K KM,Automatic
+Proton Persona,Proton,2022,"49,988",0 - 5K KM,Automatic
+BMW 520i,BMW,2019,"139,800",75 - 80K KM,Automatic
+Honda City,Honda,2014,"35,800",120 - 125K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"168,800",75 - 80K KM,Automatic
+BMW 330i,BMW,2020,"170,800",70 - 75K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2019,"177,800",70 - 75K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2022,"248,800",45 - 50K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2014/2019,"88,800",85 - 90K KM,Automatic
+Toyota Vellfire,Toyota,2015/2016,"160,800",65 - 70K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2016/2017,"109,800",80 - 85K KM,Automatic
+Mercedes-Benz A45 AMG,Mercedes-Benz,2014,"119,800",95 - 100K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2019,"188,800",55 - 60K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2016,"139,800",70 - 75K KM,Automatic
+Mercedes-Benz A45 AMG,Mercedes-Benz,2015/2016,"129,800",75 - 80K KM,Automatic
+BMW X3,BMW,2020,"188,000",50 - 55K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019,"145,800",70 - 75K KM,Automatic
+Hyundai Grand Starex,Hyundai,2009,"31,875",100 - 105K KM,Automatic
+Ford MUSTANG,Ford,2016,"167,800",80 - 85K KM,Automatic
+Toyota Harrier,Toyota,2014,"81,000",90 - 95K KM,Automatic
+Proton Saga,Proton,2009,"6,800",135 - 140K KM,Automatic
+Perodua Myvi,Perodua,2013,"21,800",90 - 95K KM,Automatic
+Perodua AXIA,Perodua,2015,"18,800",70 - 75K KM,Automatic
+Honda City,Honda,2019,"54,800",75 - 80K KM,Automatic
+Perodua Myvi,Perodua,2013,"21,800",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2014,"19,800",90 - 95K KM,Automatic
+Honda City,Honda,2018,"52,800",70 - 75K KM,Automatic
+Honda Jazz,Honda,2019,"54,800",70 - 75K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2022,"220,000",20 - 25K KM,Automatic
+Mercedes-Benz CLA180,Mercedes-Benz,2018/2022,"125,800",60 - 65K KM,Automatic
+BMW X3,BMW,2016,"68,800",100 - 105K KM,Automatic
+Kia Cerato,Kia,2018,"43,500",70 - 75K KM,Automatic
+Toyota Vellfire,Toyota,2016/2017,"145,777",70 - 75K KM,Automatic
+Honda CR-V,Honda,2016,"49,800",85 - 90K KM,Automatic
+Mercedes-Benz A180,Mercedes-Benz,2018,"135,800",60 - 65K KM,Automatic
+Perodua AXIA,Perodua,2022,"19,700",80 - 85K KM,Manual
+Perodua Myvi,Perodua,2022,"38,800",25 - 30K KM,Automatic
+Honda Insight,Honda,2012,"14,800",90 - 95K KM,Automatic
+Perodua Bezza,Perodua,2022,"40,700",40 - 45K KM,Automatic
+Honda HR-V,Honda,2016,"38,800",70 - 75K KM,Automatic
+Kia Cerato,Kia,2017,"37,700",70 - 75K KM,Automatic
+Nissan Teana,Nissan,2014,"22,800",95 - 100K KM,Automatic
+Porsche Macan,Porsche,2016,"178,000",100 - 105K KM,Automatic
+Honda CR-V,Honda,2008,"19,800",110 - 115K KM,Automatic
+Proton Saga,Proton,2017,"22,500",133062 KM,Automatic
+Toyota Vios,Toyota,2017,"49,000",109516 KM,Automatic
+Honda Jazz,Honda,2016,"50,000",91313 KM,Automatic
+Perodua Myvi,Perodua,2016,"34,200",119761 KM,Automatic
+Proton X70,Proton,2020,"71,900",65226 KM,Automatic
+Honda HR-V,Honda,2023,"116,000",18881 KM,Automatic
+Proton Saga,Proton,2019,"27,800",81180 KM,Automatic
+Toyota Vios,Toyota,2015,"36,900",92739 KM,Automatic
+Perodua Myvi,Perodua,2017,"39,100",79269 KM,Automatic
+Toyota Camry,Toyota,2018,"97,600",78725 KM,Automatic
+Ford MUSTANG,Ford,2016/2021,"155,000",75 - 80K KM,Automatic
+Perodua AXIA,Perodua,2019,"28,800",105864 KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",93277 KM,Automatic
+Perodua Bezza,Perodua,2016,"32,800",124713 KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2017,"139,800",115 - 120K KM,Automatic
+Toyota Camry,Toyota,2015,"53,800",80 - 85K KM,Automatic
+MINI Countryman,MINI,2013/2015,"48,800",70 - 75K KM,Automatic
+Mercedes-Benz E350 e,Mercedes-Benz,2018,"122,800",90 - 95K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2018,"171,800",70 - 75K KM,Automatic
+Hyundai Grand Starex,Hyundai,2019,"99,800",90 - 95K KM,Automatic
+Ford Ranger,Ford,2020,"86,700",60 - 65K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2016,"99,800",60 - 65K KM,Automatic
+Perodua AXIA,Perodua,2023,"39,000",30 - 35K KM,Automatic
+Nissan Grand Livina,Nissan,2014,"22,700",100 - 105K KM,Automatic
+Toyota Camry,Toyota,2021/2022,"156,800",50 - 55K KM,Automatic
+Toyota Vellfire,Toyota,2016/2017,"145,777",70 - 75K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2017,"108,500",75 - 80K KM,Automatic
+Toyota Corolla Altis,Toyota,2015,"39,700",80 - 85K KM,Automatic
+Toyota Vellfire,Toyota,2010,"72,800",95 - 100K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2016,"121,700",95 - 100K KM,Automatic
+Mazda CX-5,Mazda,2015,"39,800",75 - 80K KM,Automatic
+Toyota Prius C,Toyota,2013,"16,800",90 - 95K KM,Automatic
+Subaru XV,Subaru,2020,"64,800",85 - 90K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2017/2020,"149,800",55 - 60K KM,Automatic
+Mercedes-Benz B200,Mercedes-Benz,2016,"53,800",85 - 90K KM,Automatic
+Toyota Camry,Toyota,2013,"53,800",90 - 95K KM,Automatic
+Toyota Alphard,Toyota,2015,"129,800",70 - 75K KM,Automatic
+BMW X5,BMW,2017,"85,800",70 - 75K KM,Automatic
+Honda City,Honda,2018,"51,800",60 - 65K KM,Automatic
+BMW 316i,BMW,2015,"44,800",85 - 90K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2015,"83,800",65 - 70K KM,Automatic
+Honda City,Honda,2014,"35,800",90 - 95K KM,Automatic
+Toyota Camry,Toyota,2011,"33,800",110 - 115K KM,Automatic
+Toyota Vios,Toyota,2020,"59,800",55 - 60K KM,Automatic
+Toyota Estima,Toyota,2015,"86,800",90 - 95K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2019,"75,800",75 - 80K KM,Automatic
+Honda CR-Z,Honda,2013,"33,800",125 - 130K KM,Automatic
+Hyundai Tucson,Hyundai,2011,"20,800",120 - 125K KM,Automatic
+BMW 318i,BMW,2016,"54,800",65 - 70K KM,Automatic
+BMW 330e,BMW,2018,"90,000",55 - 60K KM,Automatic
+BMW 530i,BMW,2022,"258,000",85 - 90K KM,Automatic
+Honda City,Honda,2017,"55,000",70 - 75K KM,Automatic
+Toyota Hilux,Toyota,2013,"45,800",155 - 160K KM,Manual
+Audi S5,Audi,2013/2016,"76,888",55 - 60K KM,Automatic
+BMW X1,BMW,2019,"107,999",65 - 70K KM,Automatic
+Perodua Aruz,Perodua,2019,"54,100",85 - 90K KM,Automatic
+Toyota Vios,Toyota,2017,"45,000",90 - 95K KM,Automatic
+Honda Jazz,Honda,2015,"43,600",95 - 100K KM,Automatic
+Toyota Corolla,Toyota,1996,"8,300",280 - 285K KM,Automatic
+BMW 530e,BMW,2018,"96,000",75 - 80K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2013/2014,"46,800",125 - 130K KM,Automatic
+Proton Ertiga,Proton,2018,"34,800",65 - 70K KM,Automatic
+Isuzu D-Max,Isuzu,2013,"46,800",135 - 140K KM,Automatic
+Audi A6,Audi,2013,"42,000",100 - 105K KM,Automatic
+Honda CR-V,Honda,2015,"51,000",90 - 95K KM,Automatic
+Nissan Teana,Nissan,2017,"48,800",85 - 90K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2014,"83,000",100 - 105K KM,Automatic
+Lexus NX200t,Lexus,2015/2018,"115,000",145 - 150K KM,Automatic
+Toyota Vios,Toyota,2009,"22,800",120 - 125K KM,Automatic
+Perodua Myvi,Perodua,2010,"15,800",165 - 170K KM,Automatic
+Proton Inspira,Proton,2014,"34,999",135 - 140K KM,Automatic
+Nissan Serena,Nissan,2016,"47,800",70 - 75K KM,Automatic
+Subaru Forester,Subaru,2020,"138,000",0 - 5K KM,Automatic
+BMW 630i,BMW,2020,"176,800",55 - 60K KM,Automatic
+Ford Ranger,Ford,2017/2018,"49,800",120 - 125K KM,Automatic
+Perodua Bezza,Perodua,2017,"28,800",70 - 75K KM,Automatic
+Honda City,Honda,2017,"45,000",90 - 95K KM,Automatic
+Perodua AXIA,Perodua,2017,"22,800",80 - 85K KM,Automatic
+Toyota Estima,Toyota,2013,"83,888",180 - 185K KM,Automatic
+BMW X5,BMW,2020,"248,000",50 - 55K KM,Automatic
+BMW 530e,BMW,2019/2020,"138,000",50 - 55K KM,Automatic
+MINI Countryman,MINI,2021,"185,000",50 - 55K KM,Automatic
+BMW 530e,BMW,2018,"99,000",65 - 70K KM,Automatic
+BMW X5,BMW,2021,"265,000",60 - 65K KM,Automatic
+BMW X4,BMW,2019,"195,000",70 - 75K KM,Automatic
+BMW X3,BMW,2024,"288,000",10 - 15K KM,Automatic
+BMW X3,BMW,2020,"155,000",60 - 65K KM,Automatic
+BMW 320i,BMW,2024,"238,000",5 - 10K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"247,000",55 - 60K KM,Automatic
+BMW 530i,BMW,2018,"165,000",60 - 65K KM,Automatic
+BMW X5,BMW,2017,"99,000",75 - 80K KM,Automatic
+Subaru WRX STi,Subaru,2017,"188,000",0 - 5K KM,Manual
+BMW X3,BMW,2024,"288,000",10 - 15K KM,Automatic
+Toyota Estima,Toyota,2008,"42,800",125 - 130K KM,Automatic
+MINI Countryman,MINI,2017,"118,000",30 - 35K KM,Automatic
+BMW 318i,BMW,2017,"65,000",65 - 70K KM,Automatic
+Honda City,Honda,2009,"21,800",115 - 120K KM,Automatic
+Proton X70,Proton,2021,"62,800",35 - 40K KM,Automatic
+Mazda CX-5,Mazda,2015,"43,801",125 - 130K KM,Automatic
+Proton Persona,Proton,2017,"26,800",90 - 95K KM,Automatic
+Toyota Camry,Toyota,2017,"82,800",85 - 90K KM,Automatic
+Nissan Serena,Nissan,2017,"56,800",80 - 85K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2017,"121,700",85 - 90K KM,Automatic
+Proton Persona,Proton,2021,"31,800",65 - 70K KM,Automatic
+Lamborghini Huracan,Lamborghini,2016,"1,080,000",30 - 35K KM,Automatic
+BMW 330e,BMW,2018,"71,800",75 - 80K KM,Automatic
+Toyota Vios,Toyota,2007,"20,800",145 - 150K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"156,800",60 - 65K KM,Automatic
+Perodua Myvi,Perodua,2016,"24,800",95 - 100K KM,Automatic
+Nissan Teana,Nissan,2014,"33,800",85 - 90K KM,Automatic
+Toyota Alphard,Toyota,2004,"37,300",110 - 115K KM,Automatic
+BMW 530e,BMW,2022,"222,800",0 - 5K KM,Automatic
+Perodua Myvi,Perodua,2011,"13,800",115 - 120K KM,Automatic
+Honda Civic,Honda,2019/2023,"238,800",20 - 25K KM,Manual
+Perodua Bezza,Perodua,2019,"35,500",80 - 85K KM,Automatic
+Mazda CX-5,Mazda,2017,"77,800",90 - 95K KM,Automatic
+Honda HR-V,Honda,2016,"49,999",110 - 115K KM,Automatic
+Toyota Fortuner,Toyota,2012,"47,800",105 - 110K KM,Automatic
+BMW 530e,BMW,2018,"111,999",60 - 65K KM,Automatic
+Porsche Panamera,Porsche,2010,"82,800",75 - 80K KM,Automatic
+Perodua Bezza,Perodua,2017,"26,850",85 - 90K KM,Automatic
+MINI Countryman,MINI,2012,"42,500",110 - 115K KM,Automatic
+Nissan Teana,Nissan,2015,"48,850",120 - 125K KM,Automatic
+Toyota Camry,Toyota,2014,"55,850",125 - 130K KM,Automatic
+BMW X5,BMW,2017,"89,000",135 - 140K KM,Automatic
+Mazda CX-3,Mazda,2016,"48,800",70 - 75K KM,Automatic
+BMW 318i,BMW,2017,"65,000",145 - 150K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2018/2019,"123,800",75 - 80K KM,Automatic
+Mazda CX-5,Mazda,2021/2022,"112,800",60 - 65K KM,Automatic
+Proton X70,Proton,2020,"56,800",45 - 50K KM,Automatic
+Toyota Vios,Toyota,2017,"51,800",85 - 90K KM,Automatic
+Proton Inspira,Proton,2011,"22,800",105 - 110K KM,Automatic
+Honda City,Honda,2014,"35,800",115 - 120K KM,Automatic
+Toyota Vios,Toyota,2014,"42,800",115 - 120K KM,Automatic
+Honda Civic,Honda,2011,"29,800",155 - 160K KM,Automatic
+Toyota Vios,Toyota,2013,"33,800",130 - 135K KM,Automatic
+Perodua Myvi,Perodua,2019,"43,800",120 - 125K KM,Automatic
+BMW 320i,BMW,2012,"31,800",140 - 145K KM,Automatic
+Honda HR-V,Honda,2015,"48,800",105 - 110K KM,Automatic
+BMW 525i,BMW,2006,"19,800",260 - 265K KM,Automatic
+BMW 328i,BMW,2013,"53,800",155 - 160K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2011,"29,800",130 - 135K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2015/2016,"118,800",80 - 85K KM,Automatic
+Honda City,Honda,2022,"73,999",20 - 25K KM,Automatic
+Honda Odyssey,Honda,2019,"137,800",60 - 65K KM,Automatic
+Toyota Vellfire,Toyota,2017,"159,800",75 - 80K KM,Automatic
+Honda Civic,Honda,2012,"33,800",108833 KM,Automatic
+Honda City,Honda,2016,"42,100",135 - 140K KM,Automatic
+Proton Persona,Proton,2017,"27,800",91009 KM,Automatic
+Perodua AXIA,Perodua,2018,"28,400",97392 KM,Automatic
+Perodua Myvi,Perodua,2017,"41,000",130678 KM,Automatic
+Perodua Myvi,Perodua,2018,"43,000",74167 KM,Automatic
+Perodua Myvi,Perodua,2015,"25,900",160625 KM,Automatic
+Perodua Myvi,Perodua,2018,"41,400",67854 KM,Automatic
+Toyota Corolla Altis,Toyota,2015,"51,900",129418 KM,Automatic
+Proton Saga,Proton,2019,"27,800",51160 KM,Automatic
+BMW 630i,BMW,2019,"181,200",55536 KM,Automatic
+Honda City,Honda,2018,"51,200",86511 KM,Automatic
+Proton Saga,Proton,2017,"24,000",100892 KM,Automatic
+Honda HR-V,Honda,2019,"69,900",91791 KM,Automatic
+Toyota Yaris,Toyota,2019,"62,900",84466 KM,Automatic
+Volkswagen Golf,Volkswagen,2015,"125,800",115 - 120K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2016,"128,800",140 - 145K KM,Automatic
+Toyota Vios,Toyota,2014,"28,777",105 - 110K KM,Automatic
+Honda Accord,Honda,2014,"39,777",85 - 90K KM,Automatic
+Perodua Aruz,Perodua,2020,"49,777",85 - 90K KM,Automatic
+Perodua Myvi,Perodua,2008,"12,900",115 - 120K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2022,"156,800",55 - 60K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2019,"206,800",80 - 85K KM,Automatic
+Mercedes-Benz A45 AMG,Mercedes-Benz,2019/2020,"309,999",25 - 30K KM,Automatic
+BMW X3,BMW,2019,"159,999",85 - 90K KM,Automatic
+Mazda CX-5,Mazda,2013,"36,999",90 - 95K KM,Automatic
+Honda Accord,Honda,2017,"72,999",75 - 80K KM,Automatic
+BMW X1,BMW,2019,"89,999",75 - 80K KM,Automatic
+BMW X5,BMW,2022,"309,999",30 - 35K KM,Automatic
+Mazda CX-5,Mazda,2018,"82,999",90 - 95K KM,Automatic
+BMW 528i,BMW,2015,"79,999",110 - 115K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2016,"139,999",25 - 30K KM,Automatic
+BMW 530e,BMW,2022,"221,999",35 - 40K KM,Automatic
+Toyota Hilux,Toyota,2012,"47,800",100 - 105K KM,Automatic
+Isuzu D-Max,Isuzu,2016,"49,800",110 - 115K KM,Manual
+BMW 320i,BMW,2020,"139,000",30 - 35K KM,Automatic
+Perodua Myvi,Perodua,2009,"9,000",200 - 205K KM,Manual
+Perodua AXIA,Perodua,2018,"23,913",65 - 70K KM,Automatic
+Perodua Myvi,Perodua,2017,"31,913",70 - 75K KM,Automatic
+Toyota Estima,Toyota,2012,"65,800",130 - 135K KM,Automatic
+Nissan Almera,Nissan,2015,"22,913",95 - 100K KM,Automatic
+Perodua Myvi,Perodua,2016,"28,913",60 - 65K KM,Automatic
+BMW 330e,BMW,2017,"63,913",50 - 55K KM,Automatic
+Mazda CX-3,Mazda,2017/2018,"58,913",60 - 65K KM,Automatic
+Perodua Myvi,Perodua,2018,"32,913",40 - 45K KM,Automatic
+Nissan X-Trail,Nissan,2017/2018,"58,800",70 - 75K KM,Automatic
+Proton Saga,Proton,2020,"25,319",45 - 50K KM,Automatic
+Proton X70,Proton,2020,"59,686",60 - 65K KM,Automatic
+Perodua Myvi,Perodua,2017,"34,119",60 - 65K KM,Automatic
+Volkswagen Beetle,Volkswagen,2013,"46,700",95 - 100K KM,Automatic
+Perodua Myvi,Perodua,2021,"44,913",40 - 45K KM,Automatic
+Proton Persona,Proton,2007,"5,999",165 - 170K KM,Automatic
+Mazda 3,Mazda,2012,"24,700",95 - 100K KM,Automatic
+Toyota Vios,Toyota,2022,"65,800",20 - 25K KM,Automatic
+Toyota Alphard,Toyota,2017,"185,700",95 - 100K KM,Automatic
+Honda Accord,Honda,2022,"124,800",15 - 20K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2016,"126,800",90 - 95K KM,Automatic
+Isuzu D-Max,Isuzu,2011,"25,800",125 - 130K KM,Manual
+Toyota Vellfire,Toyota,2012,"68,800",95 - 100K KM,Automatic
+Perodua Myvi,Perodua,2018,"39,800",65 - 70K KM,Automatic
+Honda Step WGN,Honda,2021,"149,800",25 - 30K KM,Automatic
+Volkswagen Polo,Volkswagen,2017,"34,400",105 - 110K KM,Automatic
+Rolls-Royce Ghost,Rolls-Royce,2013/2014,"698,500",15 - 20K KM,Automatic
+BMW X1,BMW,2019,"95,999",50 - 55K KM,Automatic
+BMW X5,BMW,2017,"89,900",100 - 105K KM,Automatic
+Toyota Alphard,Toyota,2019,"213,999",60 - 65K KM,Automatic
+BMW 330i,BMW,2019,"172,999",60 - 65K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2018/2019,"175,999",30 - 35K KM,Automatic
+BMW 330e,BMW,2018,"79,999",60 - 65K KM,Automatic
+Mazda CX-5,Mazda,2018,"74,800",65 - 70K KM,Automatic
+Toyota Sienta,Toyota,2016,"52,800",95 - 100K KM,Automatic
+BMW X5,BMW,2017,"93,800",65 - 70K KM,Automatic
+BMW 530i,BMW,2018,"145,800",60 - 65K KM,Automatic
+BMW X1,BMW,2019/2020,"88,888",60 - 65K KM,Automatic
+BMW 528i,BMW,2012,"56,800",145 - 150K KM,Automatic
+BMW 330e,BMW,2019,"82,800",35 - 40K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2019,"183,800",90 - 95K KM,Automatic
+BMW X5,BMW,2021,"243,800",55 - 60K KM,Automatic
+BMW 530e,BMW,2019,"106,800",50 - 55K KM,Automatic
+BMW 530e,BMW,2021,"143,800",65 - 70K KM,Automatic
+BMW X5,BMW,2019,"113,800",70 - 75K KM,Automatic
+BMW X5,BMW,2019,"118,800",50 - 55K KM,Automatic
+BMW X5,BMW,2021,"249,800",55 - 60K KM,Automatic
+BMW X5,BMW,2019,"115,800",50 - 55K KM,Automatic
+BMW X5,BMW,2019,"113,800",70 - 75K KM,Automatic
+Ford Ranger,Ford,2018,"59,800",80 - 85K KM,Automatic
+BMW X5,BMW,2019,"116,800",55 - 60K KM,Automatic
+BMW 520d,BMW,2011,"48,800",120 - 125K KM,Automatic
+Volkswagen Polo,Volkswagen,2014,"19,900",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2018,"43,800",95 - 100K KM,Automatic
+Perodua Bezza,Perodua,2017,"26,999",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2006,"12,999",85 - 90K KM,Automatic
+Honda CR-V,Honda,2018,"87,900",45 - 50K KM,Automatic
+BMW X1,BMW,2021,"135,900",15 - 20K KM,Automatic
+Lamborghini Aventador,Lamborghini,2012,"1,080,000",50 - 55K KM,Automatic
+Subaru Forester,Subaru,2017,"41,900",90 - 95K KM,Automatic
+Porsche Panamera,Porsche,2017,"388,000",70 - 75K KM,Automatic
+Honda Civic,Honda,2020,"97,800",100 - 105K KM,Automatic
+Mercedes-Benz G350,Mercedes-Benz,2015,"358,000",80 - 85K KM,Automatic
+Mercedes-Benz G350,Mercedes-Benz,2015,"358,000",80 - 85K KM,Automatic
+Perodua Alza,Perodua,2013,"23,800",145 - 150K KM,Automatic
+Honda Civic,Honda,2018,"89,800",155 - 160K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2019,"135,800",90 - 95K KM,Automatic
+Volvo XC60,Volvo,2019,"144,800",80 - 85K KM,Automatic
+Mercedes-Benz C350 e,Mercedes-Benz,2017,"89,800",80 - 85K KM,Automatic
+Toyota Land Cruiser,Toyota,2008/2011,"107,800",145 - 150K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019,"169,800",50 - 55K KM,Automatic
+Honda CR-V,Honda,2017,"92,800",85 - 90K KM,Automatic
+Toyota Hilux,Toyota,2020,"114,800",10 - 15K KM,Automatic
+Honda Civic,Honda,2020,"84,800",70 - 75K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2012,"49,800",160 - 165K KM,Automatic
+Toyota Camry,Toyota,2019,"127,800",80 - 85K KM,Automatic
+Ford Ranger,Ford,2020,"124,800",30 - 35K KM,Automatic
+Volkswagen Golf,Volkswagen,2023,"179,800",30 - 35K KM,Automatic
+Toyota Harrier,Toyota,2014/2017,"84,800",90 - 95K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2021,"257,800",35 - 40K KM,Automatic
+BMW X3,BMW,2018,"124,800",135 - 140K KM,Automatic
+Perodua Myvi,Perodua,2009,"12,550",95 - 100K KM,Automatic
+BMW X3,BMW,2021,"213,800",20 - 25K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2017,"138,700",35 - 40K KM,Automatic
+Toyota Alphard,Toyota,2005,"37,800",85 - 90K KM,Automatic
+Land Rover Range Rover Sport,Land,2015,"228,000",90 - 95K KM,Automatic
+Toyota Land Cruiser,Toyota,2018,"288,000",70 - 75K KM,Automatic
+Toyota Land Cruiser,Toyota,2018,"288,000",70 - 75K KM,Automatic
+Proton Iriz,Proton,2016,"22,400",140 - 145K KM,Automatic
+Proton Saga,Proton,2023,"34,500",10 - 15K KM,Automatic
+Perodua Myvi,Perodua,2020,"47,000",70 - 75K KM,Automatic
+Perodua Aruz,Perodua,2019,"54,000",95 - 100K KM,Automatic
+Perodua AXIA,Perodua,2018,"28,400",40 - 45K KM,Automatic
+Toyota Vios,Toyota,2017,"50,000",95310 KM,Automatic
+Proton X70,Proton,2021,"78,000",47502 KM,Automatic
+Perodua Myvi,Perodua,2021,"49,000",57800 KM,Automatic
+Honda Jazz,Honda,2016,"52,000",92154 KM,Automatic
+Mazda CX-3,Mazda,2018,"81,900",119056 KM,Automatic
+Proton Saga,Proton,2021,"33,000",50233 KM,Automatic
+Honda CR-V,Honda,2022,"135,400",33628 KM,Automatic
+Honda Jazz,Honda,2018,"61,400",101069 KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2022,"209,700",90 - 95K KM,Automatic
+Land Rover Range Rover Sport,Land,2016,"388,000",55 - 60K KM,Automatic
+BMW X3,BMW,2022,"223,800",15 - 20K KM,Automatic
+Toyota Camry,Toyota,2010,"31,900",100 - 105K KM,Automatic
+BMW 320i,BMW,2020,"133,800",85 - 90K KM,Automatic
+BMW 530e,BMW,2019/2020,"127,800",40 - 45K KM,Automatic
+BMW 530e,BMW,2019/2020,"127,800",40 - 45K KM,Automatic
+BMW X1,BMW,2021,"123,800",75 - 80K KM,Automatic
+Toyota Alphard,Toyota,2015/2016,"136,800",80 - 85K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2017,"139,800",70 - 75K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2021,"175,800",30 - 35K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2023,"274,800",15 - 20K KM,Automatic
+Peugeot 3008,Peugeot,2018,"68,400",80 - 85K KM,Automatic
+Proton X70,Proton,2020,"72,900",35 - 40K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"298,500",50 - 55K KM,Automatic
+Perodua Aruz,Perodua,2020,"56,900",60 - 65K KM,Automatic
+Toyota Corolla Altis,Toyota,2018,"65,800",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2019,"44,800",90 - 95K KM,Automatic
+BMW 528i,BMW,2015,"75,800",90 - 95K KM,Automatic
+BMW X3,BMW,2022,"223,800",35 - 40K KM,Automatic
+BMW 330e,BMW,2022,"169,800",15 - 20K KM,Automatic
+BMW 530e,BMW,2019,"126,800",35 - 40K KM,Automatic
+Perodua Myvi,Perodua,2015,"25,900",145 - 150K KM,Automatic
+Mercedes-Benz E350 e,Mercedes-Benz,2018,"122,800",85 - 90K KM,Automatic
+Honda Accord,Honda,2016,"65,000",120 - 125K KM,Automatic
+BMW X1,BMW,2019,"82,800",60 - 65K KM,Automatic
+BMW 530i,BMW,2017,"129,800",80 - 85K KM,Automatic
+BMW 330i,BMW,2022,"199,800",30 - 35K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2018,"127,800",75 - 80K KM,Automatic
+Honda City,Honda,2019,"59,000",70 - 75K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2017,"193,800",50 - 55K KM,Automatic
+BMW X1,BMW,2019,"79,800",110 - 115K KM,Automatic
+BMW X3,BMW,2019,"122,800",80 - 85K KM,Automatic
+Mercedes-Benz C180,Mercedes-Benz,2016,"83,800",80 - 85K KM,Automatic
+BMW 318i,BMW,2018,"59,800",65 - 70K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2017,"178,500",85 - 90K KM,Automatic
+Mercedes-Benz C200K,Mercedes-Benz,2009,"39,700",95 - 100K KM,Automatic
+Mercedes-Benz B180,Mercedes-Benz,2011,"25,700",95 - 100K KM,Automatic
+Mercedes-Benz S350,Mercedes-Benz,2009,"85,500",95 - 100K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2011,"57,500",95 - 100K KM,Automatic
+MINI Countryman,MINI,2018,"118,800",90 - 95K KM,Automatic
+BMW 530e,BMW,2021,"195,800",25 - 30K KM,Automatic
+Honda BR-V,Honda,2017,"40,800",95 - 100K KM,Automatic
+Toyota Rush,Toyota,2010,"21,800",85 - 90K KM,Automatic
+Mercedes-Benz CLA45 AMG,Mercedes-Benz,2015,"155,700",85 - 90K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2016,"119,800",75 - 80K KM,Automatic
+BMW 530e,BMW,2021,"195,800",40 - 45K KM,Automatic
+Mazda 3,Mazda,2020,"112,800",60 - 65K KM,Automatic
+Land Rover Range Rover Evoque,Land,2021,"258,500",60 - 65K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2019,"72,800",35 - 40K KM,Automatic
+Land Rover Range Rover Evoque,Land,2022,"229,700",35 - 40K KM,Automatic
+BMW 530e,BMW,2018,"109,800",55 - 60K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2023,"219,800",35 - 40K KM,Automatic
+BMW 328i,BMW,2014,"74,800",95 - 100K KM,Automatic
+Land Rover Range Rover Sport,Land,2017,"228,500",85 - 90K KM,Automatic
+BMW 328i,BMW,2014,"74,800",95 - 100K KM,Automatic
+Land Rover Range Rover Sport,Land,2020,"288,500",95 - 100K KM,Automatic
+BMW 320i,BMW,2020,"141,800",35 - 40K KM,Automatic
+Kia Carnival,Kia,2017,"75,999",70 - 75K KM,Automatic
+Nissan Teana,Nissan,2012,"22,800",115 - 120K KM,Automatic
+BMW X1,BMW,2017,"68,800",70 - 75K KM,Automatic
+Perodua Myvi,Perodua,2018,"33,800",80 - 85K KM,Automatic
+Proton Saga,Proton,2022,"29,800",45 - 50K KM,Automatic
+Honda Accord,Honda,2019,"79,800",70 - 75K KM,Automatic
+Honda City,Honda,2023,"66,800",10 - 15K KM,Automatic
+Honda CR-V,Honda,2015,"50,800",120 - 125K KM,Automatic
+BMW 318i,BMW,2018,"58,800",55 - 60K KM,Automatic
+Toyota Hilux,Toyota,2021,"114,800",80 - 85K KM,Automatic
+Land Rover Range Rover Velar,Land,2021,"248,500",65 - 70K KM,Automatic
+Toyota Vios,Toyota,2014,"39,800",80 - 85K KM,Automatic
+Toyota Alphard,Toyota,2015/2018,"155,800",85 - 90K KM,Automatic
+Mercedes-Benz CLA250,Mercedes-Benz,2013/2016,"76,800",105 - 110K KM,Automatic
+Mercedes-Benz CLA250,Mercedes-Benz,2013/2016,"76,800",105 - 110K KM,Automatic
+Honda City,Honda,2016,"43,800",85 - 90K KM,Automatic
+Honda City,Honda,2021,"67,800",60 - 65K KM,Automatic
+Nissan Almera,Nissan,2012/2013,"18,800",95 - 100K KM,Automatic
+Toyota Yaris,Toyota,2022,"68,800",45 - 50K KM,Automatic
+Mazda CX-5,Mazda,2016,"53,800",95 - 100K KM,Automatic
+Perodua AXIA,Perodua,2019,"29,800",85 - 90K KM,Automatic
+Proton Saga,Proton,2016,"14,800",110 - 115K KM,Automatic
+Toyota Hilux,Toyota,2020,"99,800",95 - 100K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2015/2016,"90,800",90 - 95K KM,Automatic
+BMW 318i,BMW,2016,"58,800",75 - 80K KM,Automatic
+Peugeot 5008,Peugeot,2023,"102,888",5 - 10K KM,Automatic
+Toyota Land Cruiser,Toyota,2012,"148,500",95 - 100K KM,Automatic
+Toyota Land Cruiser,Toyota,2017,"208,500",95 - 100K KM,Automatic
+BMW 330i,BMW,2022,"179,800",60 - 65K KM,Automatic
+Proton Exora,Proton,2014,"25,700",135 - 140K KM,Automatic
+Perodua Aruz,Perodua,2020,"56,300",80 - 85K KM,Automatic
+Land Rover Range Rover Sport,Land,2020,"528,800",45 - 50K KM,Automatic
+Toyota Land Cruiser,Toyota,2012/2015,"208,500",85 - 90K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2019,"158,800",90 - 95K KM,Automatic
+Nissan Navara,Nissan,2017,"45,800",70 - 75K KM,Manual
+Hyundai Tucson,Hyundai,2019,"47,800",75 - 80K KM,Automatic
+Ford MUSTANG,Ford,2021,"177,500",55 - 60K KM,Automatic
+Honda HR-V,Honda,2015,"46,800",145 - 150K KM,Automatic
+Mazda 2,Mazda,2019,"45,800",65 - 70K KM,Automatic
+Honda City,Honda,2018,"58,000",69428 KM,Automatic
+Toyota Vios,Toyota,2019,"64,900",79824 KM,Automatic
+Honda City,Honda,2014,"35,800",124695 KM,Automatic
+Honda City,Honda,2015,"35,600",159365 KM,Automatic
+Honda Civic,Honda,2020,"98,000",75724 KM,Automatic
+Perodua Myvi,Perodua,2018,"42,800",93094 KM,Automatic
+Perodua Myvi,Perodua,2021,"43,000",50635 KM,Automatic
+Perodua Bezza,Perodua,2018,"36,700",85492 KM,Automatic
+Perodua Alza,Perodua,2019,"55,900",73562 KM,Automatic
+Perodua AXIA,Perodua,2016,"26,200",94655 KM,Automatic
+Perodua AXIA,Perodua,2019,"31,800",66459 KM,Automatic
+Mazda 2,Mazda,2016,"40,800",80 - 85K KM,Automatic
+Honda CR-V,Honda,2018,"91,900",111099 KM,Automatic
+Honda City,Honda,2023,"76,900",22905 KM,Automatic
+Honda City,Honda,2016,"42,300",106517 KM,Automatic
+Perodua Myvi,Perodua,2019,"45,800",65499 KM,Automatic
+Ford MUSTANG,Ford,2021,"188,500",40 - 45K KM,Automatic
+Honda Jazz,Honda,2017,"49,800",75 - 80K KM,Automatic
+Audi Q7,Audi,2016,"99,800",145 - 150K KM,Automatic
+Nissan Navara,Nissan,2018,"49,800",60 - 65K KM,Automatic
+Mercedes-Benz G350,Mercedes-Benz,2016/2022,"399,000",75 - 80K KM,Automatic
+Mazda 3,Mazda,2016,"49,800",110 - 115K KM,Automatic
+BMW X4,BMW,2022,"308,800",35 - 40K KM,Automatic
+Ford MUSTANG,Ford,2017,"169,850",65 - 70K KM,Automatic
+Toyota Vellfire,Toyota,2010,"60,800",110 - 115K KM,Automatic
+Perodua Myvi,Perodua,2009,"12,800",140 - 145K KM,Automatic
+Perodua Bezza,Perodua,2017,"31,800",101474 KM,Automatic
+Nissan Almera,Nissan,2015,"26,400",88733 KM,Automatic
+Proton Saga,Proton,2012,"12,900",120651 KM,Automatic
+Perodua Myvi,Perodua,2023,"52,400",10149 KM,Automatic
+Toyota Vios,Toyota,2019,"58,400",69142 KM,Automatic
+Proton Iriz,Proton,2019,"31,900",52965 KM,Automatic
+Honda HR-V,Honda,2016,"47,500",111988 KM,Automatic
+Proton Saga,Proton,2016,"23,000",110 - 115K KM,Automatic
+Perodua Bezza,Perodua,2018,"38,100",45 - 50K KM,Automatic
+Perodua AXIA,Perodua,2022,"37,400",42400 KM,Automatic
+Toyota Yaris,Toyota,2019,"60,000",65 - 70K KM,Automatic
+Perodua Bezza,Perodua,2018,"33,800",102417 KM,Automatic
+Perodua Myvi,Perodua,2018,"41,000",100 - 105K KM,Automatic
+Proton Persona,Proton,2019,"32,000",73939 KM,Automatic
+Perodua Myvi,Perodua,2021,"49,000",55 - 60K KM,Automatic
+Proton Exora,Proton,2017,"29,400",102226 KM,Automatic
+Proton Persona,Proton,2018,"32,400",63808 KM,Automatic
+Proton Saga,Proton,2019,"28,400",35621 KM,Automatic
+MINI Countryman,MINI,2024,"228,888",0 - 5K KM,Automatic
+Perodua AXIA,Perodua,2019,"31,500",70 - 75K KM,Automatic
+Perodua Bezza,Perodua,2016,"33,000",65 - 70K KM,Automatic
+BMW X4,BMW,2015,"81,999",100 - 105K KM,Automatic
+Honda Civic,Honda,2016,"68,800",90 - 95K KM,Automatic
+Perodua Myvi,Perodua,2012,"20,800",100 - 105K KM,Automatic
+Toyota Vellfire,Toyota,2008/2013,"53,800",115 - 120K KM,Automatic
+Toyota Alphard,Toyota,2007,"31,800",100 - 105K KM,Automatic
+BMW 330e,BMW,2017/2018,"61,800",75 - 80K KM,Automatic
+Ford MUSTANG,Ford,2017,"176,800",50 - 55K KM,Automatic
+BMW X5,BMW,2018,"79,800",65 - 70K KM,Automatic
+Mercedes-Benz CLA250,Mercedes-Benz,2016/2021,"128,000",225 - 230K KM,Automatic
+Porsche Macan,Porsche,2015,"198,500",50 - 55K KM,Automatic
+Toyota Vios,Toyota,2014,"36,800",95 - 100K KM,Automatic
+Audi A7,Audi,2014,"89,800",95 - 100K KM,Automatic
+Toyota Yaris,Toyota,2022,"67,800",20 - 25K KM,Automatic
+Porsche Cayman,Porsche,2016,"198,500",45 - 50K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2019,"133,999",65 - 70K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2022,"163,999",30 - 35K KM,Automatic
+Lexus CT200h,Lexus,2013,"54,800",120 - 125K KM,Automatic
+Toyota Prius,Toyota,2013,"28,800",115 - 120K KM,Automatic
+Porsche Cayman,Porsche,2014,"218,500",90 - 95K KM,Automatic
+Toyota Vellfire,Toyota,2012,"79,800",75 - 80K KM,Automatic
+Toyota Hiace,Toyota,2016,"87,800",75 - 80K KM,Manual
+Toyota Hilux,Toyota,2020,"73,800",55 - 60K KM,Manual
+Toyota Hiace,Toyota,2014,"79,800",80 - 85K KM,Manual
+Toyota Hiace,Toyota,2010,"59,800",120 - 125K KM,Manual
+Toyota Hiace,Toyota,2018,"79,800",65 - 70K KM,Manual
+Toyota Hiace,Toyota,2015,"69,800",80 - 85K KM,Manual
+Toyota Hiace,Toyota,2013,"69,800",110 - 115K KM,Manual
+Toyota Hiace,Toyota,2023,"122,800",20 - 25K KM,Manual
+Nissan Navara,Nissan,2015,"25,800",115 - 120K KM,Manual
+Nissan X-Trail,Nissan,2015,"35,800",80 - 85K KM,Automatic
+Toyota Hiace,Toyota,2011,"61,800",110 - 115K KM,Manual
+Toyota Hilux,Toyota,2011,"45,800",130 - 135K KM,Manual
+Porsche Macan,Porsche,2019,"208,500",85 - 90K KM,Automatic
+Toyota Harrier,Toyota,2020,"163,600",50 - 55K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2014,"69,700",130 - 135K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2017,"149,700",45 - 50K KM,Automatic
+BMW X5,BMW,2020,"248,800",60 - 65K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2021,"239,700",40 - 45K KM,Automatic
+Honda Jazz,Honda,2016,"41,700",90 - 95K KM,Automatic
+Honda Jazz,Honda,2019,"54,800",90 - 95K KM,Automatic
+Lamborghini Huracan,Lamborghini,2016,"1,080,000",20 - 25K KM,Automatic
+BMW 530e,BMW,2022,"225,800",40 - 45K KM,Automatic
+Perodua Myvi,Perodua,2022,"52,988",10 - 15K KM,Automatic
+Mazda 3,Mazda,2020,"112,800",60 - 65K KM,Automatic
+Honda Civic,Honda,2017,"82,800",70 - 75K KM,Automatic
+Honda City,Honda,2022,"82,800",25 - 30K KM,Automatic
+Mazda CX-5,Mazda,2016,"59,800",85 - 90K KM,Automatic
+BMW 330e,BMW,2019,"94,800",55 - 60K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2019,"173,800",90 - 95K KM,Automatic
+Toyota Estima,Toyota,2014,"79,800",105 - 110K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2019,"135,800",95 - 100K KM,Automatic
+BMW 318i,BMW,2019,"82,800",100 - 105K KM,Automatic
+Toyota Vellfire,Toyota,2015,"157,800",85 - 90K KM,Automatic
+Toyota Camry,Toyota,2019,"127,800",80 - 85K KM,Automatic
+Honda City,Honda,2021,"73,800",70 - 75K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2020,"237,800",40 - 45K KM,Automatic
+Toyota Hilux,Toyota,2015,"49,800",80 - 85K KM,Manual
+Toyota Hilux,Toyota,2019,"114,800",10 - 15K KM,Automatic
+Honda CR-V,Honda,2017,"90,800",80 - 85K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019,"169,800",50 - 55K KM,Automatic
+Toyota Camry,Toyota,2016,"73,800",90 - 95K KM,Automatic
+Toyota Hilux,Toyota,2013/2014,"49,800",115 - 120K KM,Automatic
+Nissan Vanette,Nissan,2007,"16,800",130 - 135K KM,Manual
+Volkswagen Golf,Volkswagen,2023,"179,800",25 - 30K KM,Automatic
+Honda Odyssey,Honda,2012,"59,800",90 - 95K KM,Automatic
+Honda City,Honda,2021,"72,999",40 - 45K KM,Automatic
+Ford Ranger,Ford,2017,"48,800",115 - 120K KM,Manual
+Isuzu D-Max,Isuzu,2022,"71,800",35 - 40K KM,Manual
+Honda Odyssey,Honda,2008,"29,800",120 - 125K KM,Automatic
+Nissan X-Trail,Nissan,2015,"35,800",85 - 90K KM,Automatic
+Toyota Hiace,Toyota,2020,"107,800",55 - 60K KM,Manual
+Toyota Hiace,Toyota,2019,"99,800",55 - 60K KM,Manual
+Toyota Hiace,Toyota,2022,"117,800",30 - 35K KM,Manual
+Toyota Hiace,Toyota,2021,"97,800",15 - 20K KM,Manual
+Mercedes-Benz A250,Mercedes-Benz,2021,"176,999",20 - 25K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019,"159,999",65 - 70K KM,Automatic
+Toyota Vellfire,Toyota,2015,"129,800",55 - 60K KM,Automatic
+Toyota Hilux,Toyota,2014,"59,800",95 - 100K KM,Manual
+Toyota Hiace,Toyota,2004,"24,800",115 - 120K KM,Manual
+Toyota Hilux,Toyota,2016,"61,500",55 - 60K KM,Automatic
+Toyota Hiace,Toyota,2021,"113,800",30 - 35K KM,Manual
+Lexus RX350,Lexus,2013,"76,800",80 - 85K KM,Automatic
+Toyota Hiace,Toyota,2018,"95,800",60 - 65K KM,Manual
+Mercedes-Benz C200,Mercedes-Benz,2019,"179,999",55 - 60K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"163,999",90 - 95K KM,Automatic
+Mercedes-Benz E300,Mercedes-Benz,2021,"278,800",8862 KM,Automatic
+Volkswagen Jetta,Volkswagen,2018,"46,999",45 - 50K KM,Automatic
+Toyota Vellfire,Toyota,2016,"159,999",80 - 85K KM,Automatic
+Mazda 2,Mazda,2017,"39,999",50 - 55K KM,Automatic
+BMW 328i,BMW,2015,"69,999",70 - 75K KM,Automatic
+Toyota Vios,Toyota,2018,"45,500",50 - 55K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2022,"216,999",30 - 35K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2021,"208,999",30 - 35K KM,Automatic
+Toyota Camry,Toyota,2010,"30,800",160 - 165K KM,Automatic
+Mercedes-Benz E350,Mercedes-Benz,2020,"193,800",50 - 55K KM,Automatic
+Toyota Vios,Toyota,2013/2014,"29,500",85 - 90K KM,Automatic
+Toyota Vios,Toyota,2011,"23,500",95 - 100K KM,Automatic
+MINI Countryman,MINI,2018,"132,000",50 - 55K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2022,"216,000",10 - 15K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2023,"140,800",10 - 15K KM,Automatic
+Honda Civic,Honda,2019,"85,500",45 - 50K KM,Automatic
+Mazda 3,Mazda,2018/2019,"59,800",70 - 75K KM,Automatic
+Peugeot 5008,Peugeot,2022,"99,999",30 - 35K KM,Automatic
+Honda Civic,Honda,2016,"43,500",110 - 115K KM,Automatic
+Honda Civic,Honda,2021,"93,500",45 - 50K KM,Automatic
+Honda City,Honda,2021/2022,"59,500",30 - 35K KM,Automatic
+Honda City,Honda,2019,"47,500",65 - 70K KM,Automatic
+Honda City,Honda,2021/2022,"66,500",35 - 40K KM,Automatic
+Perodua Alza,Perodua,2020/2021,"42,500",40 - 45K KM,Automatic
+Perodua Alza,Perodua,2021,"43,500",40 - 45K KM,Automatic
+Perodua Alza,Perodua,2022,"52,500",15 - 20K KM,Automatic
+Honda HR-V,Honda,2021,"89,900",35 - 40K KM,Automatic
+Toyota Yaris,Toyota,2023,"70,600",35 - 40K KM,Automatic
+Honda Jazz,Honda,2018,"57,900",60 - 65K KM,Automatic
+Perodua AXIA,Perodua,2019,"31,500",80 - 85K KM,Automatic
+Proton Iriz,Proton,2022,"46,300",30 - 35K KM,Automatic
+Toyota Vios,Toyota,2022,"67,800",45 - 50K KM,Automatic
+Perodua Bezza,Perodua,2020/2021,"32,500",75 - 80K KM,Automatic
+Perodua Bezza,Perodua,2024,"44,500",25 - 30K KM,Automatic
+Perodua Bezza,Perodua,2023,"39,500",20 - 25K KM,Automatic
+Perodua Bezza,Perodua,2020,"29,500",30 - 35K KM,Automatic
+Toyota Vios,Toyota,2017,"51,800",60 - 65K KM,Automatic
+Perodua AXIA,Perodua,2023,"35,500",5 - 10K KM,Automatic
+Perodua AXIA,Perodua,2018,"25,500",60 - 65K KM,Automatic
+Perodua AXIA,Perodua,2022,"27,500",55 - 60K KM,Automatic
+Perodua AXIA,Perodua,2020,"17,500",35 - 40K KM,Manual
+Proton Persona,Proton,2018,"28,800",75 - 80K KM,Automatic
+BMW 320i,BMW,2015,"64,800",75 - 80K KM,Automatic
+Toyota Vellfire,Toyota,2012/2015,"82,600",80 - 85K KM,Automatic
+Nissan Almera,Nissan,2013,"19,800",95 - 100K KM,Automatic
+Nissan Almera,Nissan,2021,"64,800",95 - 100K KM,Automatic
+Ford Ranger,Ford,2019,"79,800",100 - 105K KM,Automatic
+Mercedes-Benz GLA200,Mercedes-Benz,2014,"68,800",110 - 115K KM,Automatic
+Perodua Myvi,Perodua,2011,"14,800",125 - 130K KM,Automatic
+Toyota Hilux,Toyota,2016,"82,800",80 - 85K KM,Automatic
+Mercedes-Benz CLA200,Mercedes-Benz,2018,"127,772",65 - 70K KM,Automatic
+Honda City,Honda,2013,"31,800",110 - 115K KM,Automatic
+Toyota Alphard,Toyota,2006,"39,800",120 - 125K KM,Automatic
+Honda HR-V,Honda,2019,"77,800",50 - 55K KM,Automatic
+Toyota Alphard,Toyota,2015,"142,800",55 - 60K KM,Automatic
+Perodua Bezza,Perodua,2018,"33,800",90 - 95K KM,Manual
+Nissan Serena,Nissan,2015,"48,800",215 - 220K KM,Automatic
+Volkswagen Golf,Volkswagen,2013/2014,"31,800",85 - 90K KM,Automatic
+Proton Preve,Proton,2018,"27,800",60 - 65K KM,Automatic
+Honda City,Honda,2014,"36,800",100 - 105K KM,Automatic
+Perodua Myvi,Perodua,2022,"42,500",10 - 15K KM,Automatic
+Perodua Myvi,Perodua,2022,"43,500",50 - 55K KM,Automatic
+Proton X70,Proton,2021,"79,800",50 - 55K KM,Automatic
+Perodua Myvi,Perodua,2021,"37,500",35 - 40K KM,Automatic
+Perodua Myvi,Perodua,2018,"33,500",45 - 50K KM,Automatic
+Proton Saga,Proton,2010,"8,500",85 - 90K KM,Automatic
+Proton Persona,Proton,2010,"8,800",100 - 105K KM,Automatic
+Perodua Myvi,Perodua,2021,"46,800",85 - 90K KM,Automatic
+Perodua Myvi,Perodua,2022,"53,600",35 - 40K KM,Automatic
+Honda City,Honda,2015,"37,800",80 - 85K KM,Automatic
+Perodua Bezza,Perodua,2017,"33,600",65 - 70K KM,Automatic
+Mercedes-Benz C350 e,Mercedes-Benz,2017,"105,800",80 - 85K KM,Automatic
+Mercedes-Benz E240,Mercedes-Benz,2004/2008,"13,800",95 - 100K KM,Automatic
+Honda City,Honda,2014,"36,800",105 - 110K KM,Automatic
+Mercedes-Benz E250,Mercedes-Benz,2011,"39,800",95 - 100K KM,Automatic
+Proton X70,Proton,2019,"53,800",95 - 100K KM,Automatic
+Honda City,Honda,2014,"37,800",95 - 100K KM,Automatic
+Perodua Alza,Perodua,2022,"71,800",35 - 40K KM,Automatic
+Kia Sportage,Kia,2018,"51,800",55 - 60K KM,Automatic
+Honda City,Honda,2022,"74,300",60 - 65K KM,Automatic
+Nissan Serena,Nissan,2015,"49,800",85 - 90K KM,Automatic
+Toyota Vellfire,Toyota,2013/2018,"91,900",80 - 85K KM,Automatic
+Nissan Navara,Nissan,2018,"66,800",75 - 80K KM,Automatic
+Toyota Vios,Toyota,2016,"38,800",80 - 85K KM,Automatic
+Mercedes-Benz CLA45 AMG,Mercedes-Benz,2013/2014,"120,000",90 - 95K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2010/2012,"46,800",110 - 115K KM,Automatic
+Mazda 3,Mazda,2015,"43,800",90 - 95K KM,Automatic
+Honda Civic,Honda,2021,"84,800",20 - 25K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2020,"163,800",35 - 40K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2018,"148,500",85 - 90K KM,Automatic
+Nissan Almera,Nissan,2016,"29,600",70 - 75K KM,Automatic
+Toyota Vios,Toyota,2010,"20,900",105 - 110K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2020,"261,800",35 - 40K KM,Automatic
+Toyota Vellfire,Toyota,2012/2014,"78,800",95 - 100K KM,Automatic
+Nissan Almera,Nissan,2020,"53,800",45 - 50K KM,Automatic
+Volvo S60,Volvo,2023,"230,000",5 - 10K KM,Automatic
+Toyota Alphard,Toyota,2016,"168,800",75 - 80K KM,Automatic
+BMW 330e,BMW,2018,"75,800",45 - 50K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2016,"92,800",50 - 55K KM,Automatic
+Toyota Avanza,Toyota,2019,"58,800",65 - 70K KM,Automatic
+Toyota Innova,Toyota,2022,"94,800",15 - 20K KM,Automatic
+Honda HR-V,Honda,2019,"77,600",65 - 70K KM,Automatic
+Perodua Myvi,Perodua,2020,"43,800",35 - 40K KM,Automatic
+Honda CR-V,Honda,2023,"132,800",35 - 40K KM,Automatic
+Honda CR-V,Honda,2017,"90,600",90 - 95K KM,Automatic
+Honda CR-V,Honda,2023,"140,800",5 - 10K KM,Automatic
+Honda Civic,Honda,2017,"66,600",75 - 80K KM,Automatic
+Honda Civic,Honda,2020,"99,800",60 - 65K KM,Automatic
+Honda Civic,Honda,2017,"83,800",70 - 75K KM,Automatic
+Volvo XC90,Volvo,2022,"238,500",95 - 100K KM,Automatic
+MINI Countryman,MINI,2019,"127,800",45 - 50K KM,Automatic
+Toyota Harrier,Toyota,2021,"172,800",20 - 25K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2015,"29,800",95 - 100K KM,Manual
+Mitsubishi Triton,Mitsubishi,2016,"51,800",65 - 70K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2017,"41,800",60 - 65K KM,Manual
+Honda City,Honda,2017,"52,900",85 - 90K KM,Automatic
+Honda City,Honda,2020,"59,600",80 - 85K KM,Automatic
+Honda City,Honda,2006,"10,600",130 - 135K KM,Automatic
+MINI Countryman,MINI,2013,"47,800",85 - 90K KM,Automatic
+Perodua Bezza,Perodua,2018,"26,800",65 - 70K KM,Automatic
+Honda Insight,Honda,2011,"16,888",80 - 85K KM,Automatic
+Volkswagen Polo,Volkswagen,2012/2013,"19,888",80 - 85K KM,Automatic
+Proton Persona,Proton,2019,"30,888",60 - 65K KM,Automatic
+Suzuki Grand Vitara,Suzuki,2010,"19,888",90 - 95K KM,Automatic
+Honda Jazz,Honda,2017,"51,800",70 - 75K KM,Automatic
+Lexus RX270,Lexus,2013,"69,800",95 - 100K KM,Automatic
+Volvo XC60,Volvo,2019,"118,800",75 - 80K KM,Automatic
+Volkswagen Vento,Volkswagen,2018,"28,888",65 - 70K KM,Automatic
+Perodua Bezza,Perodua,2018,"33,888",55 - 60K KM,Automatic
+Perodua Viva,Perodua,2011,"13,888",80 - 85K KM,Automatic
+Honda Freed,Honda,2010,"34,888",80 - 85K KM,Automatic
+Nissan X-Trail,Nissan,2020,"79,800",15 - 20K KM,Automatic
+Toyota Prius,Toyota,2013,"25,888",75 - 80K KM,Automatic
+Perodua AXIA,Perodua,2014,"20,888",80 - 85K KM,Automatic
+Honda Accord,Honda,2017,"69,888",80 - 85K KM,Automatic
+Volkswagen Beetle,Volkswagen,2014,"44,800",50 - 55K KM,Automatic
+BMW 330i,BMW,2021,"175,800",45 - 50K KM,Automatic
+Audi R8,Audi,2014,"177,500",85 - 90K KM,Automatic
+Hyundai Grand Starex,Hyundai,2016,"59,800",125 - 130K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2012,"46,999",110 - 115K KM,Automatic
+Kia Sportage,Kia,2014/2015,"27,800",105 - 110K KM,Automatic
+Audi A6,Audi,2013,"49,800",90 - 95K KM,Automatic
+Kia Picanto,Kia,2019,"29,888",60 - 65K KM,Automatic
+Kia Rio,Kia,2015,"25,888",75 - 80K KM,Automatic
+Hyundai Sonata,Hyundai,2011,"19,888",80 - 85K KM,Automatic
+Kia Sorento,Kia,2011,"19,888",80 - 85K KM,Automatic
+Honda City,Honda,2016,"35,999",75 - 80K KM,Automatic
+Audi TT,Audi,2018,"149,850",95 - 100K KM,Automatic
+Hyundai Tucson,Hyundai,2017,"57,888",65 - 70K KM,Automatic
+Mazda 2,Mazda,2016,"42,888",80 - 85K KM,Automatic
+Kia Optima K5,Kia,2014,"37,888",70 - 75K KM,Automatic
+Nissan Serena,Nissan,2019,"83,888",55 - 60K KM,Automatic
+Volkswagen Golf,Volkswagen,2022,"129,800",25 - 30K KM,Automatic
+Honda Accord,Honda,2014,"39,900",155 - 160K KM,Automatic
+Toyota Vellfire,Toyota,2017,"161,800",60 - 65K KM,Automatic
+Toyota Estima,Toyota,2012,"58,800",115 - 120K KM,Automatic
+Mazda CX-5,Mazda,2020,"105,800",65 - 70K KM,Automatic
+Porsche Macan,Porsche,2014,"212,888",90 - 95K KM,Automatic
+Nissan Serena,Nissan,2018,"76,888",90 - 95K KM,Automatic
+Nissan Grand Livina,Nissan,2008,"13,555",135 - 140K KM,Automatic
+Mercedes-Benz GLC250,Mercedes-Benz,2016,"115,000",80 - 85K KM,Automatic
+Toyota Land Cruiser,Toyota,2014,"139,800",110 - 115K KM,Automatic
+Honda Jazz,Honda,2014,"39,800",85 - 90K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2015,"79,999",85 - 90K KM,Automatic
+Proton Saga,Proton,2020,"32,400",40 - 45K KM,Automatic
+Honda City,Honda,2022,"76,800",25 - 30K KM,Automatic
+Perodua Myvi,Perodua,2020,"45,000",70 - 75K KM,Automatic
+Perodua Myvi,Perodua,2020,"43,800",65 - 70K KM,Automatic
+Perodua Myvi,Perodua,2018,"42,800",90 - 95K KM,Automatic
+Proton Saga,Proton,2019,"27,900",70 - 75K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2017,"117,800",40 - 45K KM,Automatic
+Perodua Bezza,Perodua,2018,"28,900",90 - 95K KM,Automatic
+Mazda CX-5,Mazda,2018,"82,800",95 - 100K KM,Automatic
+BMW X5,BMW,2023,"328,500",50 - 55K KM,Automatic
+Toyota Yaris,Toyota,2019,"61,300",75 - 80K KM,Automatic
+Proton Saga,Proton,2019,"26,800",90 - 95K KM,Automatic
+Nissan Almera,Nissan,2015,"22,500",105 - 110K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2015,"103,800",50 - 55K KM,Automatic
+Proton X70,Proton,2020,"56,800",60 - 65K KM,Automatic
+Kia Rio,Kia,2016,"33,800",80 - 85K KM,Automatic
+Volkswagen Golf,Volkswagen,2011,"24,800",125 - 130K KM,Automatic
+Volkswagen Passat,Volkswagen,2017,"51,800",95 - 100K KM,Automatic
+Proton X70,Proton,2020,"59,800",60 - 65K KM,Automatic
+Perodua Aruz,Perodua,2020,"55,800",80 - 85K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2015,"74,800",140 - 145K KM,Automatic
+Proton X70,Proton,2019,"54,800",65 - 70K KM,Automatic
+Kia Rio,Kia,2016,"33,800",80 - 85K KM,Automatic
+Perodua Myvi,Perodua,2007,"19,800",130 - 135K KM,Automatic
+Perodua Aruz,Perodua,2021,"59,800",40 - 45K KM,Automatic
+BMW X3,BMW,2015,"63,800",100 - 105K KM,Automatic
+Honda Jazz,Honda,2016,"42,800",85 - 90K KM,Automatic
+BMW 730Li,BMW,2013,"89,800",95 - 100K KM,Automatic
+Toyota Hilux,Toyota,2017,"87,800",80 - 85K KM,Automatic
+Honda Jazz,Honda,2019,"54,800",75 - 80K KM,Automatic
+Perodua Myvi,Perodua,2013,"21,800",5 - 10K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2021,"299,800",20 - 25K KM,Automatic
+BMW 530e,BMW,2019,"95,800",95 - 100K KM,Automatic
+Toyota Vios,Toyota,2016,"40,800",75 - 80K KM,Automatic
+Mazda 3,Mazda,2015,"45,800",125 - 130K KM,Automatic
+Toyota Vios,Toyota,2018,"50,800",50 - 55K KM,Automatic
+Honda Civic,Honda,2017,"61,999",85 - 90K KM,Automatic
+Mercedes-Benz E250 CGI,Mercedes-Benz,2012,"41,800",95 - 100K KM,Automatic
+Nissan Almera,Nissan,2015,"16,800",130 - 135K KM,Automatic
+Ford Focus,Ford,2014/2015,"13,800",130 - 135K KM,Automatic
+Honda Accord,Honda,2009,"18,800",145 - 150K KM,Automatic
+Toyota Estima,Toyota,2001/2004,"17,500",160 - 165K KM,Automatic
+Toyota Harrier,Toyota,2006/2011,"25,800",140 - 145K KM,Automatic
+Mercedes-Benz E200,Mercedes-Benz,2017,"124,800",65 - 70K KM,Automatic
+Proton Saga,Proton,2019,"26,800",50 - 55K KM,Automatic
+Perodua Bezza,Perodua,2017,"34,700",85 - 90K KM,Automatic
+Perodua Bezza,Perodua,2016,"32,800",70 - 75K KM,Automatic
+Honda City,Honda,2016,"42,100",140 - 145K KM,Automatic
+Perodua Bezza,Perodua,2018,"36,700",80 - 85K KM,Automatic
+Toyota Vios,Toyota,2017,"53,800",130 - 135K KM,Automatic
+Proton Saga,Proton,2021,"29,900",60 - 65K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"151,800",55 - 60K KM,Automatic
+Honda Jazz,Honda,2016,"51,800",85 - 90K KM,Automatic
+BMW 330i,BMW,2022,"205,000",30 - 35K KM,Automatic
+Mercedes-Benz C250,Mercedes-Benz,2016,"105,800",75 - 80K KM,Automatic
+BMW 530e,BMW,2019,"138,000",50 - 55K KM,Automatic
+Toyota Hilux,Toyota,2016,"68,800",105 - 110K KM,Automatic
+Perodua Myvi,Perodua,2021,"37,800",50 - 55K KM,Automatic
+BMW X3,BMW,2023,"289,800",35 - 40K KM,Automatic
+BMW 630i,BMW,2024,"333,000",5 - 10K KM,Automatic
+Proton Saga,Proton,2022,"29,800",30 - 35K KM,Automatic
+Honda Jazz,Honda,2014,"42,800",70 - 75K KM,Automatic
+Toyota Vios,Toyota,2023,"69,800",0 - 5K KM,Automatic
+Mazda CX-5,Mazda,2017,"59,800",70 - 75K KM,Automatic
+Honda HR-V,Honda,2015,"49,800",75 - 80K KM,Automatic
+Hyundai Grand Starex,Hyundai,2018,"109,800",60843 KM,Automatic
+MINI 3 Door,MINI,2017/2022,"124,999",70 - 75K KM,Automatic
+Toyota Innova,Toyota,2022,"91,800",55 - 60K KM,Automatic
+Honda Civic,Honda,2016,"72,999",90 - 95K KM,Automatic
+BMW 530i,BMW,2018,"156,999",50 - 55K KM,Automatic
+Mazda CX-5,Mazda,2018,"82,800",75 - 80K KM,Automatic
+Mazda CX-5,Mazda,2022,"118,888",35 - 40K KM,Automatic
+Mercedes-Benz C300,Mercedes-Benz,2019,"175,800",70 - 75K KM,Automatic
+Nissan Almera,Nissan,2017,"30,800",100 - 105K KM,Automatic
+BMW 530i,BMW,2019,"182,800",50 - 55K KM,Automatic
+Honda City,Honda,2022,"76,800",40 - 45K KM,Automatic
+Mitsubishi ASX,Mitsubishi,2017,"39,999",75 - 80K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2019/2020,"161,800",35 - 40K KM,Automatic
+Honda CR-V,Honda,2019,"89,800",70 - 75K KM,Automatic
+Perodua Myvi,Perodua,2023,"51,400",20 - 25K KM,Automatic
+Perodua Myvi,Perodua,2016,"33,800",70 - 75K KM,Automatic
+Perodua Alza,Perodua,2013,"21,400",130 - 135K KM,Automatic
+Perodua Myvi,Perodua,2017,"36,600",140 - 145K KM,Automatic
+Honda Jazz,Honda,2019/2020,"58,800",30 - 35K KM,Automatic
+Toyota Harrier,Toyota,2018/2019,"143,800",75 - 80K KM,Automatic
+Honda Accord,Honda,2022,"142,800",10 - 15K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2020/2021,"245,800",35 - 40K KM,Automatic
+Honda Accord,Honda,2018,"79,800",60 - 65K KM,Automatic
+Toyota Vios,Toyota,2022,"73,800",35 - 40K KM,Automatic
+Honda City,Honda,2022,"70,800",25 - 30K KM,Automatic
+Mercedes-Benz C200,Mercedes-Benz,2018,"128,800",90 - 95K KM,Automatic
+Mazda CX-5,Mazda,2018,"90,800",75 - 80K KM,Automatic
+Honda HR-V,Honda,2016/2017,"56,800",90 - 95K KM,Automatic
+Proton X70,Proton,2019,"56,800",55 - 60K KM,Automatic
+Honda Jazz,Honda,2017,"50,800",90 - 95K KM,Automatic
+Mercedes-Benz GLC300,Mercedes-Benz,2022,"225,800",50 - 55K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2019,"62,800",70 - 75K KM,Automatic
+Toyota Rush,Toyota,2019,"57,800",40 - 45K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2018,"59,800",80 - 85K KM,Automatic
+Land Rover Range Rover Velar,Land,2018/2021,"232,800",45 - 50K KM,Automatic
+Mercedes-Benz A250,Mercedes-Benz,2021,"166,800",50 - 55K KM,Automatic
+Volkswagen Tiguan,Volkswagen,2021,"76,800",80 - 85K KM,Automatic
+Toyota Vellfire,Toyota,2015,"124,800",80 - 85K KM,Automatic
+Toyota Vellfire,Toyota,2016,"152,800",80 - 85K KM,Automatic
+Toyota Camry,Toyota,2017,"86,800",85 - 90K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2018,"59,800",60 - 65K KM,Automatic
+Honda HR-V,Honda,2017,"57,800",75 - 80K KM,Automatic
+Perodua Alza,Perodua,2018,"36,800",60 - 65K KM,Automatic
+Mercedes-Benz GLA250,Mercedes-Benz,2019,"165,000",30 - 35K KM,Automatic
+Mercedes-Benz C43 AMG,Mercedes-Benz,2018/2019,"173,800",60 - 65K KM,Automatic
+Honda Jazz,Honda,2014,"38,800",80 - 85K KM,Automatic
+Perodua Bezza,Perodua,2018,"31,800",25 - 30K KM,Automatic
+Honda City,Honda,2016,"38,800",75 - 80K KM,Automatic
+Ford Ranger,Ford,2014,"37,800",75 - 80K KM,Manual
+Perodua Myvi,Perodua,2018,"38,800",55 - 60K KM,Automatic
+Toyota Camry,Toyota,2014,"53,800",85 - 90K KM,Automatic
+Toyota Harrier,Toyota,2005/2007,"22,800",100 - 105K KM,Automatic
+Perodua Bezza,Perodua,2016,"30,800",90 - 95K KM,Automatic
+Honda HR-V,Honda,2019,"79,800",75 - 80K KM,Automatic
+Nissan Navara,Nissan,2017,"59,800",160 - 165K KM,Automatic
+Perodua AXIA,Perodua,2015,"20,800",60 - 65K KM,Automatic
+Proton X70,Proton,2019,"53,900",65 - 70K KM,Automatic
+BMW 530i,BMW,2022,"266,800",30 - 35K KM,Automatic
+Honda City,Honda,2023,"66,800",20 - 25K KM,Automatic
+Toyota Harrier,Toyota,2009,"35,800",100 - 105K KM,Automatic
+Honda City,Honda,2011,"18,800",90 - 95K KM,Automatic
+BMW X3,BMW,2020,"132,800",55 - 60K KM,Automatic
+Honda City,Honda,2018,"46,900",50 - 55K KM,Automatic
+Perodua Alza,Perodua,2016,"29,900",65 - 70K KM,Automatic
+Mitsubishi Triton,Mitsubishi,2016,"56,800",85 - 90K KM,Automatic
+Mercedes-Benz A45 AMG,Mercedes-Benz,2015/2016,"139,800",55 - 60K KM,Automatic
+Perodua Myvi,Perodua,2014,"19,800",85 - 90K KM,Automatic
+Perodua Myvi,Perodua,2019,"35,900",55 - 60K KM,Automatic
+Mazda CX-5,Mazda,2017,"53,900",60 - 65K KM,Automatic
+Mercedes-Benz A200,Mercedes-Benz,2015,"67,800",60 - 65K KM,Automatic
+Toyota Vios,Toyota,2022,"61,800",45 - 50K KM,Automatic
+Toyota Camry,Toyota,2017,"83,800",60 - 65K KM,Automatic
+Proton X70,Proton,2019,"52,800",105 - 110K KM,Automatic
+Honda Civic,Honda,2017,"61,800",100 - 105K KM,Automatic
