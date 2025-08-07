@@ -5,7 +5,7 @@ inspired by my dad's car resale business in Malaysia, I created a simple streaml
 # Set Up Instructions 
 1. Clone the Repository
 ```bash
-  git clone
+  git clone https://github.com/Shujin05/car-resale-price-prediction.git
   cd car-resale-price-prediction
 ```
 
