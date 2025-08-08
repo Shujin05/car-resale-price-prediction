@@ -11,5 +11,5 @@ inspired by my dad's car resale business in Malaysia, I created a simple streaml
 
 2. Run the website on your local device
 ```bash
-  python app.py
+   streamlit run app.py
 ```
